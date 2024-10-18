@@ -1,0 +1,5058 @@
+[
+    {
+        "text": "Kathmandu",
+        "value": "Kathmandu"
+    },
+    {
+        "text": "Pokhara",
+        "value": "Pokhara"
+    },
+    {
+        "text": "Butwal",
+        "value": "Butwal"
+    },
+    {
+        "text": "Bhairahawa",
+        "value": "Bhairahawa"
+    },
+    {
+        "text": "Chitwan",
+        "value": "Chitwan"
+    },
+    {
+        "text": "Dhangadhi",
+        "value": "Dhangadhi"
+    },
+    {
+        "text": "Nepalgunj",
+        "value": "Nepalgunj"
+    },
+    {
+        "text": "Kakadvitta",
+        "value": "Kakadvitta"
+    },
+    {
+        "text": "Baglung",
+        "value": "Baglung"
+    },
+    {
+        "text": "Dang",
+        "value": "Dang"
+    },
+    {
+        "text": "Sunauli",
+        "value": "Sunauli"
+    },
+    {
+        "text": "Palpa",
+        "value": "Palpa"
+    },
+    {
+        "text": "Biratnagar",
+        "value": "Biratnagar"
+    },
+    {
+        "text": "Krishnanagar",
+        "value": "Krishnanagar"
+    },
+    {
+        "text": "Bharatpur",
+        "value": "Bharatpur"
+    },
+    {
+        "text": "Birtamode",
+        "value": "Birtamode"
+    },
+    {
+        "text": "Belahiya",
+        "value": "Belahiya"
+    },
+    {
+        "text": "Janakpur",
+        "value": "Janakpur"
+    },
+    {
+        "text": "Dharan",
+        "value": "Dharan"
+    },
+    {
+        "text": "Beni",
+        "value": "Beni"
+    },
+    {
+        "text": "Sauraha",
+        "value": "Sauraha"
+    },
+    {
+        "text": "Bardaghat",
+        "value": "Bardaghat"
+    },
+    {
+        "text": "Damauli",
+        "value": "Damauli"
+    },
+    {
+        "text": "Itahari",
+        "value": "Itahari"
+    },
+    {
+        "text": "Kapilvastu",
+        "value": "Kapilvastu"
+    },
+    {
+        "text": "Kushma",
+        "value": "Kushma"
+    },
+    {
+        "text": "Kohalpur",
+        "value": "Kohalpur"
+    },
+    {
+        "text": "Surkhet",
+        "value": "Surkhet"
+    },
+    {
+        "text": "Birgunj",
+        "value": "Birgunj"
+    },
+    {
+        "text": "Dhading",
+        "value": "Dhading"
+    },
+    {
+        "text": "Damak",
+        "value": "Damak"
+    },
+    {
+        "text": "Jhapa",
+        "value": "Jhapa"
+    },
+    {
+        "text": "Mahendranagar",
+        "value": "Mahendranagar"
+    },
+    {
+        "text": "Besisahar",
+        "value": "Besisahar"
+    },
+    {
+        "text": "Syangja",
+        "value": "Syangja"
+    },
+    {
+        "text": "Chandrauta",
+        "value": "Chandrauta"
+    },
+    {
+        "text": "Waling",
+        "value": "Waling"
+    },
+    {
+        "text": "Tamghas",
+        "value": "Tamghas"
+    },
+    {
+        "text": "Charnumber Jitpur",
+        "value": "Charnumber Jitpur"
+    },
+    {
+        "text": "Murgiya",
+        "value": "Murgiya"
+    },
+    {
+        "text": "Syaphrubesi",
+        "value": "Syaphrubesi"
+    },
+    {
+        "text": "Tulsipur",
+        "value": "Tulsipur"
+    },
+    {
+        "text": "Arghakhanchi",
+        "value": "Arghakhanchi"
+    },
+    {
+        "text": "Manigram",
+        "value": "Manigram"
+    },
+    {
+        "text": "Haraiya",
+        "value": "Haraiya"
+    },
+    {
+        "text": "Delhi",
+        "value": "Delhi"
+    },
+    {
+        "text": "Attariya",
+        "value": "Attariya"
+    },
+    {
+        "text": "Pattharkot",
+        "value": "Pattharkot"
+    },
+    {
+        "text": "Bhaktapur",
+        "value": "Bhaktapur"
+    },
+    {
+        "text": "Dhunche",
+        "value": "Dhunche"
+    },
+    {
+        "text": "Taulihawa",
+        "value": "Taulihawa"
+    },
+    {
+        "text": "Narayangadh",
+        "value": "Narayangadh"
+    },
+    {
+        "text": "Tikapur",
+        "value": "Tikapur"
+    },
+    {
+        "text": "Suryapura",
+        "value": "Suryapura"
+    },
+    {
+        "text": "Jhimjhime",
+        "value": "Jhimjhime"
+    },
+    {
+        "text": "Bhadrapur",
+        "value": "Bhadrapur"
+    },
+    {
+        "text": "Dumre",
+        "value": "Dumre"
+    },
+    {
+        "text": "Dhulikhel",
+        "value": "Dhulikhel"
+    },
+    {
+        "text": "Gaighat",
+        "value": "Gaighat"
+    },
+    {
+        "text": "Gaur",
+        "value": "Gaur"
+    },
+    {
+        "text": "Lahan",
+        "value": "Lahan"
+    },
+    {
+        "text": "Bajhang",
+        "value": "Bajhang"
+    },
+    {
+        "text": "Chhapiya",
+        "value": "Chhapiya"
+    },
+    {
+        "text": "Lumbini",
+        "value": "Lumbini"
+    },
+    {
+        "text": "Kakrahawa",
+        "value": "Kakrahawa"
+    },
+    {
+        "text": "Sunwal",
+        "value": "Sunwal"
+    },
+    {
+        "text": "Rajbiraj",
+        "value": "Rajbiraj"
+    },
+    {
+        "text": "Bajura",
+        "value": "Bajura"
+    },
+    {
+        "text": "Matihani",
+        "value": "Matihani"
+    },
+    {
+        "text": "Aarughat",
+        "value": "Aarughat"
+    },
+    {
+        "text": "Burtibang",
+        "value": "Burtibang"
+    },
+    {
+        "text": "Gulmi",
+        "value": "Gulmi"
+    },
+    {
+        "text": "Tandi",
+        "value": "Tandi"
+    },
+    {
+        "text": "Urlabari",
+        "value": "Urlabari"
+    },
+    {
+        "text": "Dadeldhura",
+        "value": "Dadeldhura"
+    },
+    {
+        "text": "Kawasoti",
+        "value": "Kawasoti"
+    },
+    {
+        "text": "Bangai",
+        "value": "Bangai"
+    },
+    {
+        "text": "Pyuthan",
+        "value": "Pyuthan"
+    },
+    {
+        "text": "Jaleshwor",
+        "value": "Jaleshwor"
+    },
+    {
+        "text": "Tamnagar",
+        "value": "Tamnagar"
+    },
+    {
+        "text": "Jumla",
+        "value": "Jumla"
+    },
+    {
+        "text": "Janakpur (Ramnand Chowk)",
+        "value": "Janakpur (Ramnand Chowk)"
+    },
+    {
+        "text": "Palpa, tansen",
+        "value": "Palpa, tansen"
+    },
+    {
+        "text": "Hetauda",
+        "value": "Hetauda"
+    },
+    {
+        "text": "Saljhandi",
+        "value": "Saljhandi"
+    },
+    {
+        "text": "Lamahi",
+        "value": "Lamahi"
+    },
+    {
+        "text": "Jomsom",
+        "value": "Jomsom"
+    },
+    {
+        "text": "Ghorahi",
+        "value": "Ghorahi"
+    },
+    {
+        "text": "Lamachaur",
+        "value": "Lamachaur"
+    },
+    {
+        "text": "Chatara",
+        "value": "Chatara"
+    },
+    {
+        "text": "Bhumahi",
+        "value": "Bhumahi"
+    },
+    {
+        "text": "Lamjung",
+        "value": "Lamjung"
+    },
+    {
+        "text": "Ithari",
+        "value": "Ithari"
+    },
+    {
+        "text": "Khaireni",
+        "value": "Khaireni"
+    },
+    {
+        "text": "Ranibagiya",
+        "value": "Ranibagiya"
+    },
+    {
+        "text": "Gorusinghe",
+        "value": "Gorusinghe"
+    },
+    {
+        "text": "Dimuwa",
+        "value": "Dimuwa"
+    },
+    {
+        "text": "Chitwan, Bharatpur",
+        "value": "Chitwan, Bharatpur"
+    },
+    {
+        "text": "Lamki",
+        "value": "Lamki"
+    },
+    {
+        "text": "Ilam",
+        "value": "Ilam"
+    },
+    {
+        "text": "Sandhikharka",
+        "value": "Sandhikharka"
+    },
+    {
+        "text": "Bardiya",
+        "value": "Bardiya"
+    },
+    {
+        "text": "Chautara",
+        "value": "Chautara"
+    },
+    {
+        "text": "Hatiya",
+        "value": "Hatiya"
+    },
+    {
+        "text": "Gaurigunj",
+        "value": "Gaurigunj"
+    },
+    {
+        "text": "Pokhara (Baglung Bus Park)",
+        "value": "Pokhara (Baglung Bus Park)"
+    },
+    {
+        "text": "Hemja",
+        "value": "Hemja"
+    },
+    {
+        "text": "Tansen palpa",
+        "value": "Tansen palpa"
+    },
+    {
+        "text": "Gulariya (Bardiya)",
+        "value": "Gulariya (Bardiya)"
+    },
+    {
+        "text": "Amuwa",
+        "value": "Amuwa"
+    },
+    {
+        "text": "Rajapur (Bardiya)",
+        "value": "Rajapur (Bardiya)"
+    },
+    {
+        "text": "Motihari",
+        "value": "Motihari"
+    },
+    {
+        "text": "Mujaffarpur",
+        "value": "Mujaffarpur"
+    },
+    {
+        "text": "Kopawa",
+        "value": "Kopawa"
+    },
+    {
+        "text": "Patna",
+        "value": "Patna"
+    },
+    {
+        "text": "Siliguri",
+        "value": "Siliguri"
+    },
+    {
+        "text": "Ramapur Colony",
+        "value": "Ramapur Colony"
+    },
+    {
+        "text": "Banepa",
+        "value": "Banepa"
+    },
+    {
+        "text": "Chet Chet",
+        "value": "Chet Chet"
+    },
+    {
+        "text": "Belbas",
+        "value": "Belbas"
+    },
+    {
+        "text": "Lamachaur (Gandaki Boarding School Chowk)",
+        "value": "Lamachaur (Gandaki Boarding School Chowk)"
+    },
+    {
+        "text": "Bhurigaun",
+        "value": "Bhurigaun"
+    },
+    {
+        "text": "Malangawa",
+        "value": "Malangawa"
+    },
+    {
+        "text": "Bardibas",
+        "value": "Bardibas"
+    },
+    {
+        "text": "Butwal Chauraha",
+        "value": "Butwal Chauraha"
+    },
+    {
+        "text": "Kalaiya",
+        "value": "Kalaiya"
+    },
+    {
+        "text": "Belbari",
+        "value": "Belbari"
+    },
+    {
+        "text": "Sindhuli",
+        "value": "Sindhuli"
+    },
+    {
+        "text": "Basgadi",
+        "value": "Basgadi"
+    },
+    {
+        "text": "Imiliya",
+        "value": "Imiliya"
+    },
+    {
+        "text": "Butwal Traffic Chowk",
+        "value": "Butwal Traffic Chowk"
+    },
+    {
+        "text": "Koholpur",
+        "value": "Koholpur"
+    },
+    {
+        "text": "Rukumkot",
+        "value": "Rukumkot"
+    },
+    {
+        "text": "Bhalubang",
+        "value": "Bhalubang"
+    },
+    {
+        "text": "Manakamana (Kurintar)",
+        "value": "Manakamana (Kurintar)"
+    },
+    {
+        "text": "Pashupatinagar",
+        "value": "Pashupatinagar"
+    },
+    {
+        "text": "Kotihawa",
+        "value": "Kotihawa"
+    },
+    {
+        "text": "Nayagaun",
+        "value": "Nayagaun"
+    },
+    {
+        "text": "Kulekhani",
+        "value": "Kulekhani"
+    },
+    {
+        "text": "Dhulabari",
+        "value": "Dhulabari"
+    },
+    {
+        "text": "Nayapul",
+        "value": "Nayapul"
+    },
+    {
+        "text": "Siliguri Tenzing Norge Bus Stop",
+        "value": "Siliguri Tenzing Norge Bus Stop"
+    },
+    {
+        "text": "Drivertole",
+        "value": "Drivertole"
+    },
+    {
+        "text": "Lalbandi",
+        "value": "Lalbandi"
+    },
+    {
+        "text": "Golbazar",
+        "value": "Golbazar"
+    },
+    {
+        "text": "Fikkal",
+        "value": "Fikkal"
+    },
+    {
+        "text": "Gaushala",
+        "value": "Gaushala"
+    },
+    {
+        "text": "Chainpur (Bajhang)",
+        "value": "Chainpur (Bajhang)"
+    },
+    {
+        "text": "Chakchake",
+        "value": "Chakchake "
+    },
+    {
+        "text": "Byeu Pokhara",
+        "value": "Byeu Pokhara"
+    },
+    {
+        "text": "Bharatpur Bus Park",
+        "value": "Bharatpur Bus Park"
+    },
+    {
+        "text": "Simara",
+        "value": "Simara"
+    },
+    {
+        "text": "Kolbhi",
+        "value": "Kolbhi"
+    },
+    {
+        "text": "Aabukhaireni",
+        "value": "Aabukhaireni"
+    },
+    {
+        "text": "Chabahil",
+        "value": "Chabahil"
+    },
+    {
+        "text": "Chitwan, jagatpur kasara",
+        "value": "Chitwan, jagatpur kasara"
+    },
+    {
+        "text": "Inaruwa",
+        "value": "Inaruwa"
+    },
+    {
+        "text": "Mirmi",
+        "value": "Mirmi"
+    },
+    {
+        "text": "Bharatpur buspark",
+        "value": "Bharatpur buspark"
+    },
+    {
+        "text": "Swayambhu",
+        "value": "Swayambhu"
+    },
+    {
+        "text": "Tatopani (Darbang)",
+        "value": "Tatopani (Darbang)"
+    },
+    {
+        "text": "Biratchowk",
+        "value": "Biratchowk"
+    },
+    {
+        "text": "Boadgaun",
+        "value": "Boadgaun"
+    },
+    {
+        "text": "Bauniya",
+        "value": "Bauniya"
+    },
+    {
+        "text": "28 Kilo",
+        "value": "28 Kilo"
+    },
+    {
+        "text": "Semlar",
+        "value": "Semlar"
+    },
+    {
+        "text": "Lumle/Kande",
+        "value": "Lumle/Kande"
+    },
+    {
+        "text": "Farsatikar",
+        "value": "Farsatikar"
+    },
+    {
+        "text": "Tansen",
+        "value": "Tansen"
+    },
+    {
+        "text": "Pipara",
+        "value": "Pipara"
+    },
+    {
+        "text": "Kalikasthan",
+        "value": "Kalikasthan"
+    },
+    {
+        "text": "Birgunj Ghantaghar",
+        "value": "Birgunj Ghantaghar"
+    },
+    {
+        "text": "Muktinath",
+        "value": "Muktinath"
+    },
+    {
+        "text": "Chaurjaari",
+        "value": "Chaurjaari"
+    },
+    {
+        "text": "Katari",
+        "value": "Katari "
+    },
+    {
+        "text": "Lete",
+        "value": "Lete"
+    },
+    {
+        "text": "Dhalkebar",
+        "value": "Dhalkebar"
+    },
+    {
+        "text": "Shantibazar (Bardiya)",
+        "value": "Shantibazar (Bardiya)"
+    },
+    {
+        "text": "Bhairahawa Buddhachwok",
+        "value": "Bhairahawa Buddhachwok"
+    },
+    {
+        "text": "Mirchaiya",
+        "value": "Mirchaiya"
+    },
+    {
+        "text": "Geetanagar",
+        "value": "Geetanagar"
+    },
+    {
+        "text": "Galyang",
+        "value": "Galyang"
+    },
+    {
+        "text": "Charaali",
+        "value": "Charaali"
+    },
+    {
+        "text": "Fulkharka",
+        "value": "Fulkharka"
+    },
+    {
+        "text": "Simaltari",
+        "value": "Simaltari"
+    },
+    {
+        "text": "Rampur",
+        "value": "Rampur"
+    },
+    {
+        "text": "Butwal Buspark",
+        "value": "Butwal Buspark"
+    },
+    {
+        "text": "Tourist Bus Park",
+        "value": "Tourist Bus Park"
+    },
+    {
+        "text": "Chitwan (Narayangadh)",
+        "value": "Chitwan (Narayangadh)"
+    },
+    {
+        "text": "Ramapur",
+        "value": "Ramapur"
+    },
+    {
+        "text": "Jajarkot",
+        "value": "Jajarkot"
+    },
+    {
+        "text": "Sarlahi",
+        "value": "Sarlahi"
+    },
+    {
+        "text": "Yogikuti",
+        "value": "Yogikuti"
+    },
+    {
+        "text": "Baniyani",
+        "value": "Baniyani"
+    },
+    {
+        "text": "Pathari",
+        "value": "Pathari"
+    },
+    {
+        "text": "Ghasa",
+        "value": "Ghasa"
+    },
+    {
+        "text": "Bayarghari",
+        "value": "Bayarghari"
+    },
+    {
+        "text": "Khalanga",
+        "value": "Khalanga"
+    },
+    {
+        "text": "Garuda",
+        "value": "Garuda"
+    },
+    {
+        "text": "Syj-Dhangadi",
+        "value": "Syj-Dhangadi"
+    },
+    {
+        "text": "Badarwa",
+        "value": "Badarwa"
+    },
+    {
+        "text": "Sankarnagar",
+        "value": "Sankarnagar"
+    },
+    {
+        "text": "Bhalwari",
+        "value": "Bhalwari"
+    },
+    {
+        "text": "Belbash",
+        "value": "Belbash"
+    },
+    {
+        "text": "Khadbari",
+        "value": "Khadbari"
+    },
+    {
+        "text": "Nijgadh",
+        "value": "Nijgadh"
+    },
+    {
+        "text": "Surunga",
+        "value": "Surunga"
+    },
+    {
+        "text": "Bandipur",
+        "value": "Bandipur"
+    },
+    {
+        "text": "Suryabinayak",
+        "value": "Suryabinayak"
+    },
+    {
+        "text": "Tatopani",
+        "value": "Tatopani"
+    },
+    {
+        "text": "Sarlahi (Barahathwa)",
+        "value": "Sarlahi (Barahathwa)"
+    },
+    {
+        "text": "Kharbang",
+        "value": "Kharbang"
+    },
+    {
+        "text": "Baglung New Bus Park",
+        "value": "Baglung New Bus Park"
+    },
+    {
+        "text": "Maldhunga",
+        "value": "Maldhunga"
+    },
+    {
+        "text": "Tatopani (Bhurung)",
+        "value": "Tatopani (Bhurung)"
+    },
+    {
+        "text": "Birat Chowk",
+        "value": "Birat Chowk"
+    },
+    {
+        "text": "Trishuli",
+        "value": "Trishuli"
+    },
+    {
+        "text": "Bankatta",
+        "value": "Bankatta"
+    },
+    {
+        "text": "Tamngar",
+        "value": "Tamngar"
+    },
+    {
+        "text": "Pokhariya",
+        "value": "Pokhariya"
+    },
+    {
+        "text": "Kaule",
+        "value": "Kaule"
+    },
+    {
+        "text": "Parsa",
+        "value": "Parsa"
+    },
+    {
+        "text": "Bahadurgunj",
+        "value": "Bahadurgunj"
+    },
+    {
+        "text": "Gagan Gauda",
+        "value": "Gagan Gauda"
+    },
+    {
+        "text": "Parsa Bazar",
+        "value": "Parsa Bazar"
+    },
+    {
+        "text": "Timure",
+        "value": "Timure"
+    },
+    {
+        "text": "Manthali",
+        "value": "Manthali"
+    },
+    {
+        "text": "Birgunj Bus Park",
+        "value": "Birgunj Bus Park"
+    },
+    {
+        "text": "Thakurdwara",
+        "value": "Thakurdwara"
+    },
+    {
+        "text": "Basbariya",
+        "value": "Basbariya"
+    },
+    {
+        "text": "Dule Gauda",
+        "value": "Dule Gauda"
+    },
+    {
+        "text": "Taplejung",
+        "value": "Taplejung"
+    },
+    {
+        "text": "Lekhnath",
+        "value": "Lekhnath"
+    },
+    {
+        "text": "Salleri",
+        "value": "Salleri"
+    },
+    {
+        "text": "Darchula",
+        "value": "Darchula"
+    },
+    {
+        "text": "Fireline",
+        "value": "Fireline"
+    },
+    {
+        "text": "Khara/Khala",
+        "value": "Khara/Khala"
+    },
+    {
+        "text": "Bidur",
+        "value": "Bidur"
+    },
+    {
+        "text": "Marpha",
+        "value": "Marpha"
+    },
+    {
+        "text": "Gwarko",
+        "value": "Gwarko"
+    },
+    {
+        "text": "Masuriya",
+        "value": "Masuriya "
+    },
+    {
+        "text": "Bijuwar",
+        "value": "Bijuwar"
+    },
+    {
+        "text": "Kanchanpur",
+        "value": "Kanchanpur"
+    },
+    {
+        "text": "Sukhad",
+        "value": "Sukhad"
+    },
+    {
+        "text": "Nayamill",
+        "value": "Nayamill"
+    },
+    {
+        "text": "kathmandu Gongabu Bus park",
+        "value": "kathmandu Gongabu Bus park"
+    },
+    {
+        "text": "Tamghas`",
+        "value": "Tamghas`"
+    },
+    {
+        "text": "Bakhri",
+        "value": "Bakhri"
+    },
+    {
+        "text": "Buddi",
+        "value": "Buddi"
+    },
+    {
+        "text": "Beni (Mangalghat)",
+        "value": "Beni (Mangalghat)"
+    },
+    {
+        "text": "Tukuche",
+        "value": "Tukuche"
+    },
+    {
+        "text": "Morang",
+        "value": "Morang"
+    },
+    {
+        "text": "Dudhe",
+        "value": "Dudhe"
+    },
+    {
+        "text": "Kalanki",
+        "value": "Kalanki"
+    },
+    {
+        "text": "Dudilakhan",
+        "value": "Dudilakhan"
+    },
+    {
+        "text": "Gachiya",
+        "value": "Gachiya"
+    },
+    {
+        "text": "Ramechhap",
+        "value": "Ramechhap"
+    },
+    {
+        "text": "Sanga",
+        "value": "Sanga"
+    },
+    {
+        "text": "Mude",
+        "value": "Mude"
+    },
+    {
+        "text": "Dhanushadham",
+        "value": "Dhanushadham"
+    },
+    {
+        "text": "Danabari",
+        "value": "Danabari"
+    },
+    {
+        "text": "Patihani",
+        "value": "Patihani"
+    },
+    {
+        "text": "Kusma",
+        "value": "Kusma"
+    },
+    {
+        "text": "Ittabhatta Chowk",
+        "value": "Ittabhatta Chowk"
+    },
+    {
+        "text": "Ramnand Chowk",
+        "value": "Ramnand Chowk"
+    },
+    {
+        "text": "Jadibuti",
+        "value": "Jadibuti"
+    },
+    {
+        "text": "Fattepur",
+        "value": "Fattepur"
+    },
+    {
+        "text": "Goljung",
+        "value": "Goljung"
+    },
+    {
+        "text": "Meghauli",
+        "value": "Meghauli "
+    },
+    {
+        "text": "Palpa bartun",
+        "value": "Palpa bartun"
+    },
+    {
+        "text": "Kalikot manma",
+        "value": "Kalikot manma"
+    },
+    {
+        "text": "Divertol",
+        "value": "Divertol"
+    },
+    {
+        "text": "Bhimgithe",
+        "value": "Bhimgithe"
+    },
+    {
+        "text": "Dumkibas",
+        "value": "Dumkibas"
+    },
+    {
+        "text": "Chappargaun",
+        "value": "Chappargaun"
+    },
+    {
+        "text": "Kagbeni",
+        "value": "Kagbeni"
+    },
+    {
+        "text": "Thimi",
+        "value": "Thimi"
+    },
+    {
+        "text": "Sukedhara",
+        "value": "Sukedhara"
+    },
+    {
+        "text": "Thori",
+        "value": "Thori"
+    },
+    {
+        "text": "Dupcheshwor",
+        "value": "Dupcheshwor"
+    },
+    {
+        "text": "Kobang",
+        "value": "Kobang"
+    },
+    {
+        "text": "Bithamode",
+        "value": "Bithamode"
+    },
+    {
+        "text": "Aaptari",
+        "value": "Aaptari"
+    },
+    {
+        "text": "Ambasha",
+        "value": "Ambasha"
+    },
+    {
+        "text": "Mahalaxmistan",
+        "value": "Mahalaxmistan"
+    },
+    {
+        "text": "Manglapur",
+        "value": "Manglapur "
+    },
+    {
+        "text": "Basundhara",
+        "value": "Basundhara"
+    },
+    {
+        "text": "Galyang (Baglung)",
+        "value": "Galyang (Baglung)"
+    },
+    {
+        "text": "Pathardada",
+        "value": "Pathardada"
+    },
+    {
+        "text": "Bagmati (Sarlahi)",
+        "value": "Bagmati (Sarlahi)"
+    },
+    {
+        "text": "Rudrabeni / Gulmi",
+        "value": "Rudrabeni / Gulmi"
+    },
+    {
+        "text": "Battar",
+        "value": "Battar"
+    },
+    {
+        "text": "Sautha",
+        "value": "Sautha"
+    },
+    {
+        "text": "Tatopani (Rasuwa)",
+        "value": "Tatopani (Rasuwa)"
+    },
+    {
+        "text": "Rukum",
+        "value": "Rukum"
+    },
+    {
+        "text": "Dhangadi (Siraha)",
+        "value": "Dhangadi (Siraha)"
+    },
+    {
+        "text": "Dudhauli",
+        "value": "Dudhauli"
+    },
+    {
+        "text": "Nayaroad",
+        "value": "Nayaroad"
+    },
+    {
+        "text": "Paras Bus Park",
+        "value": "Paras Bus Park"
+    },
+    {
+        "text": "Khaulara",
+        "value": "Khaulara"
+    },
+    {
+        "text": "Pathlaiya",
+        "value": "Pathlaiya"
+    },
+    {
+        "text": "Pokhare Bagar",
+        "value": "Pokhare Bagar"
+    },
+    {
+        "text": "Helu",
+        "value": "Helu"
+    },
+    {
+        "text": "Dhankuta",
+        "value": "Dhankuta"
+    },
+    {
+        "text": "Khajuri",
+        "value": "Khajuri"
+    },
+    {
+        "text": "Bodebarsain",
+        "value": "Bodebarsain"
+    },
+    {
+        "text": "Budhabare",
+        "value": "Budhabare"
+    },
+    {
+        "text": "Babiyachaur",
+        "value": "Babiyachaur"
+    },
+    {
+        "text": "Maulapur",
+        "value": "Maulapur"
+    },
+    {
+        "text": "Kanyam",
+        "value": "Kanyam"
+    },
+    {
+        "text": "Shivnagar",
+        "value": "Shivnagar"
+    },
+    {
+        "text": "Sole",
+        "value": "Sole"
+    },
+    {
+        "text": "Tumlingtaar",
+        "value": "Tumlingtaar"
+    },
+    {
+        "text": "Barampuri (Sarlahi)",
+        "value": "Barampuri (Sarlahi)"
+    },
+    {
+        "text": "Bhaluhi",
+        "value": "Bhaluhi"
+    },
+    {
+        "text": "Simrangadh",
+        "value": "Simrangadh"
+    },
+    {
+        "text": "Manakamana",
+        "value": "Manakamana"
+    },
+    {
+        "text": "Janakpur (Mahendranagar)",
+        "value": "Janakpur (Mahendranagar)"
+    },
+    {
+        "text": "Simraungadh",
+        "value": "Simraungadh"
+    },
+    {
+        "text": "Solu",
+        "value": "Solu"
+    },
+    {
+        "text": "Gatlang",
+        "value": "Gatlang"
+    },
+    {
+        "text": "Laxmimarga",
+        "value": "Laxmimarga"
+    },
+    {
+        "text": "Ratnechaur",
+        "value": "Ratnechaur"
+    },
+    {
+        "text": "Bardghat",
+        "value": "Bardghat"
+    },
+    {
+        "text": "Jhumka",
+        "value": "Jhumka"
+    },
+    {
+        "text": "Kalanki Dhungeadda (BusSewa Office)",
+        "value": "Kalanki Dhungeadda (BusSewa Office)"
+    },
+    {
+        "text": "Fatepur",
+        "value": "Fatepur"
+    },
+    {
+        "text": "Gatthaghar",
+        "value": "Gatthaghar"
+    },
+    {
+        "text": "Birgunj Buspark",
+        "value": "Birgunj Buspark"
+    },
+    {
+        "text": "Mailung",
+        "value": "Mailung"
+    },
+    {
+        "text": "Dipayal",
+        "value": "Dipayal"
+    },
+    {
+        "text": "Kasara",
+        "value": "Kasara"
+    },
+    {
+        "text": "Ngh Kakadvitta",
+        "value": "Ngh Kakadvitta "
+    },
+    {
+        "text": "Bhimad",
+        "value": "Bhimad"
+    },
+    {
+        "text": "Khanar",
+        "value": "Khanar"
+    },
+    {
+        "text": "Sunkhani",
+        "value": "Sunkhani"
+    },
+    {
+        "text": "Radhe Radhe",
+        "value": "Radhe Radhe"
+    },
+    {
+        "text": "Chandranighapur (Chandrapur)",
+        "value": "Chandranighapur (Chandrapur)"
+    },
+    {
+        "text": "Madhauliya",
+        "value": "Madhauliya"
+    },
+    {
+        "text": "Balkumari",
+        "value": "Balkumari"
+    },
+    {
+        "text": "Jatahi",
+        "value": "Jatahi"
+    },
+    {
+        "text": "Sathbaaj",
+        "value": "Sathbaaj"
+    },
+    {
+        "text": "Divertoal",
+        "value": "Divertoal"
+    },
+    {
+        "text": "Nawalpur",
+        "value": "Nawalpur"
+    },
+    {
+        "text": "Bhandara",
+        "value": "Bhandara"
+    },
+    {
+        "text": "Sonbarsa (Siraha)",
+        "value": "Sonbarsa (Siraha)"
+    },
+    {
+        "text": "Bouddha (Pipal Bot)",
+        "value": "Bouddha (Pipal Bot)"
+    },
+    {
+        "text": "Radi",
+        "value": "Radi"
+    },
+    {
+        "text": "Gulmi Khaireni",
+        "value": "Gulmi Khaireni"
+    },
+    {
+        "text": "Rampur (Chitwan)",
+        "value": "Rampur (Chitwan)"
+    },
+    {
+        "text": "Bagdula",
+        "value": "Bagdula"
+    },
+    {
+        "text": "Bairiya",
+        "value": "Bairiya"
+    },
+    {
+        "text": "Jagatpur",
+        "value": "Jagatpur"
+    },
+    {
+        "text": "Marfa",
+        "value": "Marfa"
+    },
+    {
+        "text": "Prithivi Chowk",
+        "value": "Prithivi Chowk"
+    },
+    {
+        "text": "Rampur Bazar",
+        "value": "Rampur Bazar"
+    },
+    {
+        "text": "Jagatpur / Kasara",
+        "value": "Jagatpur / Kasara "
+    },
+    {
+        "text": "Jeetpur",
+        "value": "Jeetpur"
+    },
+    {
+        "text": "Darbang",
+        "value": "Darbang"
+    },
+    {
+        "text": "Jibjibe",
+        "value": "Jibjibe"
+    },
+    {
+        "text": "Katarniya",
+        "value": "Katarniya"
+    },
+    {
+        "text": "Bhimgitthe",
+        "value": "Bhimgitthe"
+    },
+    {
+        "text": "Buddha Chowk",
+        "value": "Buddha Chowk"
+    },
+    {
+        "text": "Gongabu Bus Park",
+        "value": "Gongabu Bus Park"
+    },
+    {
+        "text": "Narayangath Pulchowk",
+        "value": "Narayangath Pulchowk"
+    },
+    {
+        "text": "Dolakha",
+        "value": "Dolakha"
+    },
+    {
+        "text": "Silgadhi",
+        "value": "Silgadhi"
+    },
+    {
+        "text": "Khahare",
+        "value": "Khahare"
+    },
+    {
+        "text": "Siraha",
+        "value": "Siraha"
+    },
+    {
+        "text": "Khurkot",
+        "value": "Khurkot"
+    },
+    {
+        "text": "Taratal",
+        "value": "Taratal"
+    },
+    {
+        "text": "Amardaha",
+        "value": "Amardaha"
+    },
+    {
+        "text": "Chapur",
+        "value": "Chapur"
+    },
+    {
+        "text": "Barhabise",
+        "value": "Barhabise"
+    },
+    {
+        "text": "Jitpur",
+        "value": "Jitpur"
+    },
+    {
+        "text": "Kalyanpur (Saptari)",
+        "value": "Kalyanpur (Saptari)"
+    },
+    {
+        "text": "Dolalghat",
+        "value": "Dolalghat"
+    },
+    {
+        "text": "Buddhanagar",
+        "value": "Buddhanagar"
+    },
+    {
+        "text": "Ramapur;",
+        "value": "Ramapur;"
+    },
+    {
+        "text": "Auraiya",
+        "value": "Auraiya"
+    },
+    {
+        "text": "Chohadwa",
+        "value": "Chohadwa"
+    },
+    {
+        "text": "Bariyarpatti",
+        "value": "Bariyarpatti"
+    },
+    {
+        "text": "Sauraha Chowak",
+        "value": "Sauraha Chowak"
+    },
+    {
+        "text": "Narayantar",
+        "value": "Narayantar "
+    },
+    {
+        "text": "Doti",
+        "value": "Doti"
+    },
+    {
+        "text": "Nayamil",
+        "value": "Nayamil"
+    },
+    {
+        "text": "Nwara",
+        "value": "Nwara"
+    },
+    {
+        "text": "Lakeside",
+        "value": "Lakeside"
+    },
+    {
+        "text": "gorushinge",
+        "value": "gorushinge"
+    },
+    {
+        "text": "Thuman",
+        "value": "Thuman"
+    },
+    {
+        "text": "Bagmati",
+        "value": "Bagmati"
+    },
+    {
+        "text": "Saghara",
+        "value": "Saghara"
+    },
+    {
+        "text": "Dakaha",
+        "value": "Dakaha"
+    },
+    {
+        "text": "Bariyarpur",
+        "value": "Bariyarpur"
+    },
+    {
+        "text": "Sarpallo",
+        "value": "Sarpallo"
+    },
+    {
+        "text": "Sauraha Chowk",
+        "value": "Sauraha Chowk"
+    },
+    {
+        "text": "Bengaluru",
+        "value": "Bengaluru"
+    },
+    {
+        "text": "Drivertol",
+        "value": "Drivertol"
+    },
+    {
+        "text": "Bhaktapur Bhatbhateni",
+        "value": "Bhaktapur Bhatbhateni"
+    },
+    {
+        "text": "Okhaldhunga",
+        "value": "Okhaldhunga"
+    },
+    {
+        "text": "Bhojpur",
+        "value": "Bhojpur"
+    },
+    {
+        "text": "Sukhipur",
+        "value": "Sukhipur"
+    },
+    {
+        "text": "Phattepur",
+        "value": "Phattepur"
+    },
+    {
+        "text": "Boadgau",
+        "value": "Boadgau"
+    },
+    {
+        "text": "Buddhi",
+        "value": "Buddhi"
+    },
+    {
+        "text": "Cancer Gate",
+        "value": "Cancer Gate"
+    },
+    {
+        "text": "Rajghat",
+        "value": "Rajghat"
+    },
+    {
+        "text": "Amlekhgunj",
+        "value": "Amlekhgunj"
+    },
+    {
+        "text": "Halesi",
+        "value": "Halesi"
+    },
+    {
+        "text": "Tribhuvan International Airport",
+        "value": "Tribhuvan International Airport"
+    },
+    {
+        "text": "Charikot",
+        "value": "Charikot"
+    },
+    {
+        "text": "Ranibas",
+        "value": "Ranibas"
+    },
+    {
+        "text": "Matiarwa",
+        "value": "Matiarwa"
+    },
+    {
+        "text": "Sarsiu",
+        "value": "Sarsiu "
+    },
+    {
+        "text": "Narethati",
+        "value": "Narethati"
+    },
+    {
+        "text": "Kandebas",
+        "value": "Kandebas"
+    },
+    {
+        "text": "Bhalawari",
+        "value": "Bhalawari"
+    },
+    {
+        "text": "Ekantakuna",
+        "value": "Ekantakuna"
+    },
+    {
+        "text": "Bharda",
+        "value": "Bharda"
+    },
+    {
+        "text": "Khairenitar",
+        "value": "Khairenitar"
+    },
+    {
+        "text": "Khatrithati",
+        "value": "Khatrithati"
+    },
+    {
+        "text": "Godar",
+        "value": "Godar"
+    },
+    {
+        "text": "Cancer Hospital",
+        "value": "Cancer Hospital"
+    },
+    {
+        "text": "Gorusinge",
+        "value": "Gorusinge"
+    },
+    {
+        "text": "Chandaruta",
+        "value": "Chandaruta"
+    },
+    {
+        "text": "Ramdi",
+        "value": "Ramdi"
+    },
+    {
+        "text": "Bakulahar",
+        "value": "Bakulahar"
+    },
+    {
+        "text": "Manigaram",
+        "value": "Manigaram"
+    },
+    {
+        "text": "Janakinagar",
+        "value": "Janakinagar"
+    },
+    {
+        "text": "Kanepokhari",
+        "value": "Kanepokhari"
+    },
+    {
+        "text": "Bhalche",
+        "value": "Bhalche"
+    },
+    {
+        "text": "Ekdara",
+        "value": "Ekdara"
+    },
+    {
+        "text": "Bhorle",
+        "value": "Bhorle"
+    },
+    {
+        "text": "Sukrabare",
+        "value": "Sukrabare"
+    },
+    {
+        "text": "Phidim",
+        "value": "Phidim"
+    },
+    {
+        "text": "Tamnager",
+        "value": "Tamnager"
+    },
+    {
+        "text": "Chaarali",
+        "value": "Chaarali"
+    },
+    {
+        "text": "Chandragadi",
+        "value": "Chandragadi"
+    },
+    {
+        "text": "Lukum",
+        "value": "Lukum"
+    },
+    {
+        "text": "Zero Kilo",
+        "value": "Zero Kilo"
+    },
+    {
+        "text": "Rukum Khalanga",
+        "value": "Rukum Khalanga"
+    },
+    {
+        "text": "Balaju",
+        "value": "Balaju"
+    },
+    {
+        "text": "Bankul",
+        "value": "Bankul"
+    },
+    {
+        "text": "Jhiwa Khola",
+        "value": "Jhiwa Khola"
+    },
+    {
+        "text": "Jorpati",
+        "value": "Jorpati"
+    },
+    {
+        "text": "Nadipur",
+        "value": "Nadipur"
+    },
+    {
+        "text": "Kaukhola",
+        "value": "Kaukhola"
+    },
+    {
+        "text": "Parchyang",
+        "value": "Parchyang"
+    },
+    {
+        "text": "Sulichaur",
+        "value": "Sulichaur"
+    },
+    {
+        "text": "Birendra Bazar",
+        "value": "Birendra Bazar"
+    },
+    {
+        "text": "Tehrathum",
+        "value": "Tehrathum"
+    },
+    {
+        "text": "Lasti",
+        "value": "Lasti"
+    },
+    {
+        "text": "Rajmarga Chauraha",
+        "value": "Rajmarga Chauraha"
+    },
+    {
+        "text": "Chandranigahpur",
+        "value": "Chandranigahpur"
+    },
+    {
+        "text": "Ramechap",
+        "value": "Ramechap"
+    },
+    {
+        "text": "Bahadurgung",
+        "value": "Bahadurgung"
+    },
+    {
+        "text": "Chormara",
+        "value": "Chormara"
+    },
+    {
+        "text": "Balaju (Bhatbhateni)",
+        "value": "Balaju (Bhatbhateni)"
+    },
+    {
+        "text": "Bartung",
+        "value": "Bartung"
+    },
+    {
+        "text": "Nepaltar",
+        "value": "Nepaltar"
+    },
+    {
+        "text": "Birga Bhustung",
+        "value": "Birga Bhustung"
+    },
+    {
+        "text": "Pathri",
+        "value": "Pathri"
+    },
+    {
+        "text": "Bodebasain",
+        "value": "Bodebasain"
+    },
+    {
+        "text": "Tanahun",
+        "value": "Tanahun"
+    },
+    {
+        "text": "Gothgaun",
+        "value": "Gothgaun"
+    },
+    {
+        "text": "Rajmargha Chauraha",
+        "value": "Rajmargha Chauraha"
+    },
+    {
+        "text": "Rasuwagadi",
+        "value": "Rasuwagadi"
+    },
+    {
+        "text": "Chhinchu",
+        "value": "Chhinchu"
+    },
+    {
+        "text": "Itahara",
+        "value": "Itahara"
+    },
+    {
+        "text": "Janakpur (Laxminiya)",
+        "value": "Janakpur (Laxminiya)"
+    },
+    {
+        "text": "Dana",
+        "value": "Dana"
+    },
+    {
+        "text": "Duhabi",
+        "value": "Duhabi"
+    },
+    {
+        "text": "New Baneshwor",
+        "value": "New Baneshwor"
+    },
+    {
+        "text": "Kausaltar",
+        "value": "Kausaltar"
+    },
+    {
+        "text": "Khalanga/Pyuthan",
+        "value": "Khalanga/Pyuthan"
+    },
+    {
+        "text": "Bhulbhule",
+        "value": "Bhulbhule"
+    },
+    {
+        "text": "Khochalekh",
+        "value": "Khochalekh"
+    },
+    {
+        "text": "Sunawal",
+        "value": "Sunawal"
+    },
+    {
+        "text": "Gathaghar",
+        "value": "Gathaghar"
+    },
+    {
+        "text": "Taal Chowk",
+        "value": "Taal Chowk"
+    },
+    {
+        "text": "Bodhgaya",
+        "value": "Bodhgaya"
+    },
+    {
+        "text": "Gokuleshwor",
+        "value": "Gokuleshwor"
+    },
+    {
+        "text": "Ramgopalpur",
+        "value": "Ramgopalpur"
+    },
+    {
+        "text": "Chaubiskoti",
+        "value": "Chaubiskoti"
+    },
+    {
+        "text": "Ratnanagar",
+        "value": "Ratnanagar"
+    },
+    {
+        "text": "Rumjatar",
+        "value": "Rumjatar"
+    },
+    {
+        "text": "Salakpur",
+        "value": "Salakpur"
+    },
+    {
+        "text": "Jhumak",
+        "value": "Jhumak"
+    },
+    {
+        "text": "Basantapur",
+        "value": "Basantapur"
+    },
+    {
+        "text": "Muggiya",
+        "value": "Muggiya"
+    },
+    {
+        "text": "Satdobato",
+        "value": "Satdobato"
+    },
+    {
+        "text": "Diktel",
+        "value": "Diktel"
+    },
+    {
+        "text": "Naudanda",
+        "value": "Naudanda"
+    },
+    {
+        "text": "New Bus Park Baglung",
+        "value": "New Bus Park Baglung"
+    },
+    {
+        "text": "Kaushaltar/Lokanthali",
+        "value": "Kaushaltar/Lokanthali"
+    },
+    {
+        "text": "Bhaunne",
+        "value": "Bhaunne"
+    },
+    {
+        "text": "Pakhribas",
+        "value": "Pakhribas"
+    },
+    {
+        "text": "Sundar Dulari",
+        "value": "Sundar Dulari"
+    },
+    {
+        "text": "Ghodabanne",
+        "value": "Ghodabanne"
+    },
+    {
+        "text": "Buipa",
+        "value": "Buipa"
+    },
+    {
+        "text": "Chainpur",
+        "value": "Chainpur"
+    },
+    {
+        "text": "Gulariya",
+        "value": "Gulariya"
+    },
+    {
+        "text": "Tinkauriya",
+        "value": "Tinkauriya"
+    },
+    {
+        "text": "Rajpur",
+        "value": "Rajpur"
+    },
+    {
+        "text": "Chandranighapur",
+        "value": "Chandranighapur"
+    },
+    {
+        "text": "Macchi",
+        "value": "Macchi"
+    },
+    {
+        "text": "Hile",
+        "value": "Hile"
+    },
+    {
+        "text": "Chilime",
+        "value": "Chilime"
+    },
+    {
+        "text": "Rupani",
+        "value": "Rupani"
+    },
+    {
+        "text": "Danda",
+        "value": "Danda "
+    },
+    {
+        "text": "Sankanagar",
+        "value": "Sankanagar"
+    },
+    {
+        "text": "Devighat",
+        "value": "Devighat"
+    },
+    {
+        "text": "Mugling",
+        "value": "Mugling"
+    },
+    {
+        "text": "Betrawati",
+        "value": "Betrawati"
+    },
+    {
+        "text": "Sinamangal Cargo",
+        "value": "Sinamangal Cargo"
+    },
+    {
+        "text": "Khorsane",
+        "value": "Khorsane"
+    },
+    {
+        "text": "Tinkune",
+        "value": "Tinkune"
+    },
+    {
+        "text": "Ratodhunga",
+        "value": "Ratodhunga"
+    },
+    {
+        "text": "Manarakatti",
+        "value": "Manarakatti"
+    },
+    {
+        "text": "Balkhu",
+        "value": "Balkhu"
+    },
+    {
+        "text": "Sallaghari",
+        "value": "Sallaghari"
+    },
+    {
+        "text": "Bardhaghat",
+        "value": "Bardhaghat"
+    },
+    {
+        "text": "Mechinagar",
+        "value": "Mechinagar"
+    },
+    {
+        "text": "Devisthan",
+        "value": "Devisthan"
+    },
+    {
+        "text": "Kachorwa",
+        "value": "Kachorwa"
+    },
+    {
+        "text": "BG Mall",
+        "value": "BG Mall"
+    },
+    {
+        "text": "Sigati",
+        "value": "Sigati"
+    },
+    {
+        "text": "Parwanipur",
+        "value": "Parwanipur"
+    },
+    {
+        "text": "Koteshwor",
+        "value": "Koteshwor"
+    },
+    {
+        "text": "Tadi",
+        "value": "Tadi"
+    },
+    {
+        "text": "Piparpati",
+        "value": "Piparpati"
+    },
+    {
+        "text": "Bouddha",
+        "value": "Bouddha"
+    },
+    {
+        "text": "Pravash",
+        "value": "Pravash"
+    },
+    {
+        "text": "Aauraiya",
+        "value": "Aauraiya"
+    },
+    {
+        "text": "Tiplang",
+        "value": "Tiplang"
+    },
+    {
+        "text": "Arunkhola",
+        "value": "Arunkhola"
+    },
+    {
+        "text": "Bafal (Sajha Petrol Pump)",
+        "value": "Bafal (Sajha Petrol Pump)"
+    },
+    {
+        "text": "Mainapokhari",
+        "value": "Mainapokhari"
+    },
+    {
+        "text": "Chisapani",
+        "value": "Chisapani"
+    },
+    {
+        "text": "Bailbas (Sarlahi)",
+        "value": "Bailbas (Sarlahi)"
+    },
+    {
+        "text": "Shankarnagar",
+        "value": "Shankarnagar"
+    },
+    {
+        "text": "Sijwa",
+        "value": "Sijwa"
+    },
+    {
+        "text": "Kerkha",
+        "value": "Kerkha"
+    },
+    {
+        "text": "Bhiman",
+        "value": "Bhiman"
+    },
+    {
+        "text": "Bhuwachidi",
+        "value": "Bhuwachidi"
+    },
+    {
+        "text": "Khotang",
+        "value": "Khotang"
+    },
+    {
+        "text": "Gauradaha",
+        "value": "Gauradaha"
+    },
+    {
+        "text": "Talchowk",
+        "value": "Talchowk"
+    },
+    {
+        "text": "Lamabagar",
+        "value": "Lamabagar"
+    },
+    {
+        "text": "Achham (Sanfebagar)",
+        "value": "Achham (Sanfebagar)"
+    },
+    {
+        "text": "Letang",
+        "value": "Letang"
+    },
+    {
+        "text": "Chandrapur",
+        "value": "Chandrapur"
+    },
+    {
+        "text": "Hariban",
+        "value": "Hariban"
+    },
+    {
+        "text": "Majhgaun",
+        "value": "Majhgaun"
+    },
+    {
+        "text": "Rauthata",
+        "value": "Rauthata"
+    },
+    {
+        "text": "Raxaul",
+        "value": "Raxaul"
+    },
+    {
+        "text": "Jathe",
+        "value": "Jathe"
+    },
+    {
+        "text": "Santapur",
+        "value": "Santapur"
+    },
+    {
+        "text": "Basgadhi",
+        "value": "Basgadhi"
+    },
+    {
+        "text": "Narayangadh-Surkhet",
+        "value": "Narayangadh-Surkhet"
+    },
+    {
+        "text": "Shankhanagar",
+        "value": "Shankhanagar"
+    },
+    {
+        "text": "Dumbarwana",
+        "value": "Dumbarwana"
+    },
+    {
+        "text": "Singati",
+        "value": "Singati"
+    },
+    {
+        "text": "Fidim",
+        "value": "Fidim"
+    },
+    {
+        "text": "Sorhakhutte",
+        "value": "Sorhakhutte"
+    },
+    {
+        "text": "Pato",
+        "value": "Pato"
+    },
+    {
+        "text": "Kothiyaghat",
+        "value": "Kothiyaghat"
+    },
+    {
+        "text": "Talla Phat",
+        "value": "Talla Phat"
+    },
+    {
+        "text": "Budar",
+        "value": "Budar"
+    },
+    {
+        "text": "Tarahara",
+        "value": "Tarahara"
+    },
+    {
+        "text": "Chakal Chauraha",
+        "value": "Chakal Chauraha"
+    },
+    {
+        "text": "Ramailo",
+        "value": "Ramailo"
+    },
+    {
+        "text": "Haridwar",
+        "value": "Haridwar"
+    },
+    {
+        "text": "Mangalapur",
+        "value": "Mangalapur"
+    },
+    {
+        "text": "Saak",
+        "value": "Saak"
+    },
+    {
+        "text": "Salyan",
+        "value": "Salyan"
+    },
+    {
+        "text": "Dharapani",
+        "value": "Dharapani"
+    },
+    {
+        "text": "Kalinchowk",
+        "value": "Kalinchowk"
+    },
+    {
+        "text": "Singha",
+        "value": "Singha"
+    },
+    {
+        "text": "Subarnapur",
+        "value": "Subarnapur"
+    },
+    {
+        "text": "Galchhi",
+        "value": "Galchhi"
+    },
+    {
+        "text": "Tallubagar",
+        "value": "Tallubagar"
+    },
+    {
+        "text": "Prithivi Chowk (himalipetrolpomp)",
+        "value": "Prithivi Chowk (himalipetrolpomp)"
+    },
+    {
+        "text": "Madhumalla",
+        "value": "Madhumalla"
+    },
+    {
+        "text": "Haripur",
+        "value": "Haripur"
+    },
+    {
+        "text": "Wami Taksar",
+        "value": "Wami Taksar"
+    },
+    {
+        "text": "Salyan(shreenagar)",
+        "value": "Salyan(shreenagar)"
+    },
+    {
+        "text": "Kalyanpur",
+        "value": "Kalyanpur"
+    },
+    {
+        "text": "Patan",
+        "value": "Patan"
+    },
+    {
+        "text": "Pipra (Mahottari)",
+        "value": "Pipra (Mahottari)"
+    },
+    {
+        "text": "Gongar",
+        "value": "Gongar"
+    },
+    {
+        "text": "Rajapur",
+        "value": "Rajapur"
+    },
+    {
+        "text": "Traffic Chowk",
+        "value": "Traffic Chowk"
+    },
+    {
+        "text": "Hariwan",
+        "value": "Hariwan"
+    },
+    {
+        "text": "Rijal Chowk",
+        "value": "Rijal Chowk"
+    },
+    {
+        "text": "Darvan",
+        "value": "Darvan"
+    },
+    {
+        "text": "Saurah Chowk",
+        "value": "Saurah Chowk"
+    },
+    {
+        "text": "Beltar",
+        "value": "Beltar"
+    },
+    {
+        "text": "Nayagau",
+        "value": "Nayagau"
+    },
+    {
+        "text": "Bhisawa",
+        "value": "Bhisawa"
+    },
+    {
+        "text": "Kharanitar",
+        "value": "Kharanitar"
+    },
+    {
+        "text": "Gawai",
+        "value": "Gawai"
+    },
+    {
+        "text": "Pipra(Mahottari)",
+        "value": "Pipra(Mahottari)"
+    },
+    {
+        "text": "Gorkha",
+        "value": "Gorkha"
+    },
+    {
+        "text": "Chakraghatti",
+        "value": "Chakraghatti"
+    },
+    {
+        "text": "Amarsingh Chowk",
+        "value": "Amarsingh Chowk"
+    },
+    {
+        "text": "Traffic Chowk Baglung",
+        "value": "Traffic Chowk Baglung"
+    },
+    {
+        "text": "Harkate",
+        "value": "Harkate"
+    },
+    {
+        "text": "Rangeli",
+        "value": "Rangeli"
+    },
+    {
+        "text": "Malangwa",
+        "value": "Malangwa"
+    },
+    {
+        "text": "Bastari",
+        "value": "Bastari"
+    },
+    {
+        "text": "Dolpa",
+        "value": "Dolpa"
+    },
+    {
+        "text": "Kathauna",
+        "value": "Kathauna"
+    },
+    {
+        "text": "Nisi",
+        "value": "Nisi"
+    },
+    {
+        "text": "Bhittamod",
+        "value": "Bhittamod"
+    },
+    {
+        "text": "Panchthar",
+        "value": "Panchthar"
+    },
+    {
+        "text": "Pawati",
+        "value": "Pawati"
+    },
+    {
+        "text": "Tatopani (Beni)",
+        "value": "Tatopani (Beni)"
+    },
+    {
+        "text": "Byu Pokhara",
+        "value": "Byu Pokhara"
+    },
+    {
+        "text": "Aapraha",
+        "value": "Aapraha"
+    },
+    {
+        "text": "Chakrapath",
+        "value": "Chakrapath"
+    },
+    {
+        "text": "Lokanthali",
+        "value": "Lokanthali"
+    },
+    {
+        "text": "Traffic Chowk, Baglung",
+        "value": "Traffic Chowk, Baglung"
+    },
+    {
+        "text": "Char Number",
+        "value": "Char Number"
+    },
+    {
+        "text": "Mahadevphat",
+        "value": "Mahadevphat"
+    },
+    {
+        "text": "Harmi Chaur",
+        "value": "Harmi Chaur"
+    },
+    {
+        "text": "Rangoli",
+        "value": "Rangoli"
+    },
+    {
+        "text": "imliya",
+        "value": "imliya"
+    },
+    {
+        "text": "Riyar",
+        "value": "Riyar"
+    },
+    {
+        "text": "Manghar",
+        "value": "Manghar"
+    },
+    {
+        "text": "Sadan School",
+        "value": "Sadan School"
+    },
+    {
+        "text": "Dainiya",
+        "value": "Dainiya"
+    },
+    {
+        "text": "Matela",
+        "value": "Matela"
+    },
+    {
+        "text": "Samari",
+        "value": "Samari"
+    },
+    {
+        "text": "Daunne",
+        "value": "Daunne"
+    },
+    {
+        "text": "Mirchiya",
+        "value": "Mirchiya"
+    },
+    {
+        "text": "Jiwa Khola",
+        "value": "Jiwa Khola"
+    },
+    {
+        "text": "Sarojni Nagar",
+        "value": "Sarojni Nagar"
+    },
+    {
+        "text": "Bastipur",
+        "value": "Bastipur"
+    },
+    {
+        "text": "Musyachaur",
+        "value": "Musyachaur"
+    },
+    {
+        "text": "Benauli",
+        "value": "Benauli"
+    },
+    {
+        "text": "Shimle",
+        "value": "Shimle "
+    },
+    {
+        "text": "Sillegada",
+        "value": "Sillegada"
+    },
+    {
+        "text": "Sitapaila",
+        "value": "Sitapaila"
+    },
+    {
+        "text": "Fuljor",
+        "value": "Fuljor"
+    },
+    {
+        "text": "Bhojad",
+        "value": "Bhojad "
+    },
+    {
+        "text": "Panta",
+        "value": "Panta"
+    },
+    {
+        "text": "Khari",
+        "value": "Khari"
+    },
+    {
+        "text": "Bikash Chowk",
+        "value": "Bikash Chowk"
+    },
+    {
+        "text": "Pathaljada",
+        "value": "Pathaljada"
+    },
+    {
+        "text": "suyeda",
+        "value": "suyeda"
+    },
+    {
+        "text": "Gerkhu",
+        "value": "Gerkhu"
+    },
+    {
+        "text": "Phaparbadi",
+        "value": "Phaparbadi"
+    },
+    {
+        "text": "Krishi Campus",
+        "value": "Krishi Campus"
+    },
+    {
+        "text": "Buddhanager",
+        "value": "Buddhanager"
+    },
+    {
+        "text": "Gitthakot",
+        "value": "Gitthakot"
+    },
+    {
+        "text": "Punjab (India)",
+        "value": "Punjab (India)"
+    },
+    {
+        "text": "Campus Chowk",
+        "value": "Campus Chowk"
+    },
+    {
+        "text": "Lamsure",
+        "value": "Lamsure "
+    },
+    {
+        "text": "Rajgadh",
+        "value": "Rajgadh"
+    },
+    {
+        "text": "Chanaura",
+        "value": "Chanaura"
+    },
+    {
+        "text": "Lothar",
+        "value": "Lothar"
+    },
+    {
+        "text": "Hakubesi",
+        "value": "Hakubesi "
+    },
+    {
+        "text": "Tribeni",
+        "value": "Tribeni"
+    },
+    {
+        "text": "Rambapur",
+        "value": "Rambapur"
+    },
+    {
+        "text": "Awalching",
+        "value": "Awalching"
+    },
+    {
+        "text": "Harnaiya",
+        "value": "Harnaiya"
+    },
+    {
+        "text": "Cherneta",
+        "value": "Cherneta"
+    },
+    {
+        "text": "Malekhpur",
+        "value": "Malekhpur"
+    },
+    {
+        "text": "Ronga",
+        "value": "Ronga"
+    },
+    {
+        "text": "Choharwa",
+        "value": "Choharwa"
+    },
+    {
+        "text": "Bakhari",
+        "value": "Bakhari"
+    },
+    {
+        "text": "Jamrung",
+        "value": "Jamrung"
+    },
+    {
+        "text": "Mathilo Jagat",
+        "value": "Mathilo Jagat"
+    },
+    {
+        "text": "Jhapa bazaar",
+        "value": "Jhapa bazaar "
+    },
+    {
+        "text": "Samaygund",
+        "value": "Samaygund"
+    },
+    {
+        "text": "Debighat",
+        "value": "Debighat"
+    },
+    {
+        "text": "Jomni",
+        "value": "Jomni"
+    },
+    {
+        "text": "Dhangadhi Bus Park",
+        "value": "Dhangadhi Bus Park"
+    },
+    {
+        "text": "Musyalkhan",
+        "value": "Musyalkhan"
+    },
+    {
+        "text": "Narayanthan Chowk",
+        "value": "Narayanthan Chowk"
+    },
+    {
+        "text": "Kanchanpur (Bara)",
+        "value": "Kanchanpur (Bara)"
+    },
+    {
+        "text": "Ship",
+        "value": "Ship"
+    },
+    {
+        "text": "Simalchaur",
+        "value": "Simalchaur"
+    },
+    {
+        "text": "Duradadha",
+        "value": "Duradadha"
+    },
+    {
+        "text": "khaireni pur",
+        "value": "khaireni pur"
+    },
+    {
+        "text": "Sitka",
+        "value": "Sitka"
+    },
+    {
+        "text": "Pantar",
+        "value": "Pantar"
+    },
+    {
+        "text": "Kharmi",
+        "value": "Kharmi"
+    },
+    {
+        "text": "Gerkhutar",
+        "value": "Gerkhutar"
+    },
+    {
+        "text": "Pokhara Buspark",
+        "value": "Pokhara Buspark"
+    },
+    {
+        "text": "Lakhanpur",
+        "value": "Lakhanpur"
+    },
+    {
+        "text": "Gochhada",
+        "value": "Gochhada"
+    },
+    {
+        "text": "Purandaha",
+        "value": "Purandaha"
+    },
+    {
+        "text": "Aarebhanjyang",
+        "value": "Aarebhanjyang"
+    },
+    {
+        "text": "Langadi",
+        "value": "Langadi"
+    },
+    {
+        "text": "Gorusing",
+        "value": "Gorusing"
+    },
+    {
+        "text": "Thutipeepal",
+        "value": "Thutipeepal"
+    },
+    {
+        "text": "Chanauta",
+        "value": "Chanauta"
+    },
+    {
+        "text": "Louki",
+        "value": "Louki "
+    },
+    {
+        "text": "Ramche",
+        "value": "Ramche"
+    },
+    {
+        "text": "Baalgram",
+        "value": "Baalgram"
+    },
+    {
+        "text": "Hasandaha",
+        "value": "Hasandaha"
+    },
+    {
+        "text": "Yubra",
+        "value": "Yubra"
+    },
+    {
+        "text": "Malekhu",
+        "value": "Malekhu"
+    },
+    {
+        "text": "India (Punjab)",
+        "value": "India (Punjab)"
+    },
+    {
+        "text": "Choramara",
+        "value": "Choramara"
+    },
+    {
+        "text": "Manhari",
+        "value": "Manhari"
+    },
+    {
+        "text": "Jamune",
+        "value": "Jamune"
+    },
+    {
+        "text": "Sahilek",
+        "value": "Sahilek"
+    },
+    {
+        "text": "Dalldale",
+        "value": "Dalldale"
+    },
+    {
+        "text": "Baniyar",
+        "value": "Baniyar"
+    },
+    {
+        "text": "Jhiljhile",
+        "value": "Jhiljhile"
+    },
+    {
+        "text": "Samsergunj",
+        "value": "Samsergunj"
+    },
+    {
+        "text": "Dehimaadau",
+        "value": "Dehimaadau"
+    },
+    {
+        "text": "Barne",
+        "value": "Barne"
+    },
+    {
+        "text": "Mithileshwar",
+        "value": "Mithileshwar"
+    },
+    {
+        "text": "Dhangadi",
+        "value": "Dhangadi"
+    },
+    {
+        "text": "Nabi",
+        "value": "Nabi"
+    },
+    {
+        "text": "Kakri",
+        "value": "Kakri"
+    },
+    {
+        "text": "Shittalnagar",
+        "value": "Shittalnagar"
+    },
+    {
+        "text": "Kathpate",
+        "value": "Kathpate"
+    },
+    {
+        "text": "Paaduka",
+        "value": "Paaduka"
+    },
+    {
+        "text": "Sitlabajar",
+        "value": "Sitlabajar"
+    },
+    {
+        "text": "Gabis",
+        "value": "Gabis"
+    },
+    {
+        "text": "Bholagaudi",
+        "value": "Bholagaudi"
+    },
+    {
+        "text": "Parabari",
+        "value": "Parabari"
+    },
+    {
+        "text": "Sukkhad",
+        "value": "Sukkhad"
+    },
+    {
+        "text": "Gangabu Bg mall",
+        "value": "Gangabu Bg mall"
+    },
+    {
+        "text": "Ghantaghar",
+        "value": "Ghantaghar"
+    },
+    {
+        "text": "Phedibesi",
+        "value": "Phedibesi"
+    },
+    {
+        "text": "Kritipur (Morang)",
+        "value": "Kritipur (Morang)"
+    },
+    {
+        "text": "Pokhara Tourist Bus Park",
+        "value": "Pokhara Tourist Bus Park"
+    },
+    {
+        "text": "Lal bandi",
+        "value": "Lal bandi"
+    },
+    {
+        "text": "Purano Bank Chowk",
+        "value": "Purano Bank Chowk"
+    },
+    {
+        "text": "Aarichini",
+        "value": "Aarichini"
+    },
+    {
+        "text": "Lanku Dharam Chowk",
+        "value": "Lanku Dharam Chowk"
+    },
+    {
+        "text": "Thutipepal",
+        "value": "Thutipepal"
+    },
+    {
+        "text": "rajhar",
+        "value": "rajhar"
+    },
+    {
+        "text": "Amleshgunj",
+        "value": "Amleshgunj"
+    },
+    {
+        "text": "Lucknow",
+        "value": "Lucknow"
+    },
+    {
+        "text": "Halgada",
+        "value": "Halgada"
+    },
+    {
+        "text": "Babare",
+        "value": "Babare"
+    },
+    {
+        "text": "Mahendranagar (Bara)",
+        "value": "Mahendranagar (Bara)"
+    },
+    {
+        "text": "Zero Mile",
+        "value": "Zero  Mile"
+    },
+    {
+        "text": "Rarali",
+        "value": "Rarali"
+    },
+    {
+        "text": "Chetnagar",
+        "value": "Chetnagar"
+    },
+    {
+        "text": "Bagshila",
+        "value": "Bagshila"
+    },
+    {
+        "text": "Malekpur",
+        "value": "Malekpur"
+    },
+    {
+        "text": "Industrial Area Pkr",
+        "value": "Industrial Area Pkr"
+    },
+    {
+        "text": "Chorba",
+        "value": "Chorba"
+    },
+    {
+        "text": "Saikhola`",
+        "value": "Saikhola`"
+    },
+    {
+        "text": "Samshergunj",
+        "value": "Samshergunj"
+    },
+    {
+        "text": "Dehimandu",
+        "value": "Dehimandu"
+    },
+    {
+        "text": "Barthawa",
+        "value": "Barthawa"
+    },
+    {
+        "text": "Molfa",
+        "value": "Molfa"
+    },
+    {
+        "text": "Jomsong",
+        "value": "Jomsong"
+    },
+    {
+        "text": "Satbaaz",
+        "value": "Satbaaz"
+    },
+    {
+        "text": "Nacho Bajar",
+        "value": "Nacho Bajar"
+    },
+    {
+        "text": "Sehara chowk",
+        "value": "Sehara chowk"
+    },
+    {
+        "text": "Dhungeshwor",
+        "value": "Dhungeshwor"
+    },
+    {
+        "text": "Narkatiya",
+        "value": "Narkatiya"
+    },
+    {
+        "text": "Shiva puri",
+        "value": "Shiva puri"
+    },
+    {
+        "text": "Kaudena",
+        "value": "Kaudena"
+    },
+    {
+        "text": "Simana",
+        "value": "Simana"
+    },
+    {
+        "text": "Bharkhu",
+        "value": "Bharkhu"
+    },
+    {
+        "text": "Paali",
+        "value": "Paali"
+    },
+    {
+        "text": "Khajura",
+        "value": "Khajura"
+    },
+    {
+        "text": "Sittalnagar",
+        "value": "Sittalnagar"
+    },
+    {
+        "text": "Gachhada",
+        "value": "Gachhada"
+    },
+    {
+        "text": "Gara",
+        "value": "Gara"
+    },
+    {
+        "text": "Kokshi",
+        "value": "Kokshi"
+    },
+    {
+        "text": "Bobang",
+        "value": "Bobang"
+    },
+    {
+        "text": "Kudule",
+        "value": "Kudule"
+    },
+    {
+        "text": "Budh Chowk",
+        "value": "Budh Chowk "
+    },
+    {
+        "text": "Lalbandhi",
+        "value": "Lalbandhi"
+    },
+    {
+        "text": "Godeta",
+        "value": "Godeta"
+    },
+    {
+        "text": "Puranopani",
+        "value": "Puranopani"
+    },
+    {
+        "text": "Aarnaha",
+        "value": "Aarnaha"
+    },
+    {
+        "text": "Lapilang",
+        "value": "Lapilang"
+    },
+    {
+        "text": "Thutipipal",
+        "value": "Thutipipal"
+    },
+    {
+        "text": "Rajkot",
+        "value": "Rajkot"
+    },
+    {
+        "text": "Amliya",
+        "value": "Amliya"
+    },
+    {
+        "text": "Halkhori",
+        "value": "Halkhori"
+    },
+    {
+        "text": "Ramdi (Malungwa)",
+        "value": "Ramdi (Malungwa)"
+    },
+    {
+        "text": "Babargunj",
+        "value": "Babargunj"
+    },
+    {
+        "text": "Mahendrapool",
+        "value": "Mahendrapool"
+    },
+    {
+        "text": "Raskot",
+        "value": "Raskot"
+    },
+    {
+        "text": "Baguwa",
+        "value": "Baguwa"
+    },
+    {
+        "text": "Malikaarjun",
+        "value": "Malikaarjun"
+    },
+    {
+        "text": "Industrial Area, Pokhara",
+        "value": "Industrial Area, Pokhara"
+    },
+    {
+        "text": "Chorhawa",
+        "value": "Chorhawa"
+    },
+    {
+        "text": "Manigaun",
+        "value": "Manigaun "
+    },
+    {
+        "text": "Janakinager",
+        "value": "Janakinager"
+    },
+    {
+        "text": "Sakela",
+        "value": "Sakela"
+    },
+    {
+        "text": "Maulakalika Counter",
+        "value": "Maulakalika Counter"
+    },
+    {
+        "text": "Samundratar",
+        "value": "Samundratar"
+    },
+    {
+        "text": "Bartun",
+        "value": "Bartun"
+    },
+    {
+        "text": "Satbaj",
+        "value": "Satbaj"
+    },
+    {
+        "text": "Bauniyara",
+        "value": "Bauniyara"
+    },
+    {
+        "text": "Kalakot",
+        "value": "Kalakot"
+    },
+    {
+        "text": "Semjong",
+        "value": "Semjong"
+    },
+    {
+        "text": "Dhungrekhola",
+        "value": "Dhungrekhola"
+    },
+    {
+        "text": "Benighat",
+        "value": "Benighat"
+    },
+    {
+        "text": "Naryangad",
+        "value": "Naryangad"
+    },
+    {
+        "text": "Kankai",
+        "value": "Kankai"
+    },
+    {
+        "text": "Shivagunj",
+        "value": "Shivagunj"
+    },
+    {
+        "text": "Bhalkot",
+        "value": "Bhalkot"
+    },
+    {
+        "text": "Fakling",
+        "value": "Fakling"
+    },
+    {
+        "text": "Bhategauda",
+        "value": "Bhategauda"
+    },
+    {
+        "text": "Pachasa",
+        "value": "Pachasa"
+    },
+    {
+        "text": "Siwang",
+        "value": "Siwang"
+    },
+    {
+        "text": "Gachhiya Bajar",
+        "value": "Gachhiya Bajar"
+    },
+    {
+        "text": "Bhorletaar",
+        "value": "Bhorletaar"
+    },
+    {
+        "text": "Khawang Bagar",
+        "value": "Khawang Bagar"
+    },
+    {
+        "text": "garcha",
+        "value": "garcha"
+    },
+    {
+        "text": "Pathlayia",
+        "value": "Pathlayia"
+    },
+    {
+        "text": "Syaule",
+        "value": "Syaule"
+    },
+    {
+        "text": "Ghatachaur",
+        "value": "Ghatachaur"
+    },
+    {
+        "text": "Pilaadi",
+        "value": "Pilaadi"
+    },
+    {
+        "text": "Godrang",
+        "value": "Godrang"
+    },
+    {
+        "text": "Pyauli",
+        "value": "Pyauli"
+    },
+    {
+        "text": "Aarud Khola",
+        "value": "Aarud Khola"
+    },
+    {
+        "text": "Gotha gau",
+        "value": "Gotha gau"
+    },
+    {
+        "text": "Tikadhum",
+        "value": "Tikadhum"
+    },
+    {
+        "text": "Hallan Chowk",
+        "value": "Hallan Chowk"
+    },
+    {
+        "text": "Chaubala",
+        "value": "Chaubala"
+    },
+    {
+        "text": "Mahendrapul",
+        "value": "Mahendrapul"
+    },
+    {
+        "text": "Helui",
+        "value": "Helui"
+    },
+    {
+        "text": "Zero Mile",
+        "value": "Zero Mile"
+    },
+    {
+        "text": "Rastra Bank Chowk",
+        "value": "Rastra Bank Chowk"
+    },
+    {
+        "text": "Chhaptari",
+        "value": "Chhaptari"
+    },
+    {
+        "text": "Malikarjun",
+        "value": "Malikarjun"
+    },
+    {
+        "text": "Inruwa",
+        "value": "Inruwa"
+    },
+    {
+        "text": "Sakhine",
+        "value": "Sakhine"
+    },
+    {
+        "text": "Damuli",
+        "value": "Damuli"
+    },
+    {
+        "text": "Barahathwa",
+        "value": "Barahathwa"
+    },
+    {
+        "text": "Jhota",
+        "value": "Jhota"
+    },
+    {
+        "text": "Deu Pokhara",
+        "value": "Deu Pokhara"
+    },
+    {
+        "text": "Satbhaj",
+        "value": "Satbhaj"
+    },
+    {
+        "text": "Dhanusha Dham",
+        "value": "Dhanusha Dham"
+    },
+    {
+        "text": "Naduwa (bartikot)",
+        "value": "Naduwa (bartikot)"
+    },
+    {
+        "text": "Dhuwakot",
+        "value": "Dhuwakot"
+    },
+    {
+        "text": "Naubise",
+        "value": "Naubise"
+    },
+    {
+        "text": "Simli",
+        "value": "Simli"
+    },
+    {
+        "text": "Falebas",
+        "value": "Falebas"
+    },
+    {
+        "text": "Bhatta Gaun",
+        "value": "Bhatta Gaun"
+    },
+    {
+        "text": "Padampur",
+        "value": "Padampur"
+    },
+    {
+        "text": "Bhulahi",
+        "value": "Bhulahi"
+    },
+    {
+        "text": "Khawang Bazar",
+        "value": "Khawang Bazar"
+    },
+    {
+        "text": "Kolhavi",
+        "value": "Kolhavi"
+    },
+    {
+        "text": "Ghodabade",
+        "value": "Ghodabade"
+    },
+    {
+        "text": "Pile",
+        "value": "Pile"
+    },
+    {
+        "text": "Kurintar (Manakamana )",
+        "value": "Kurintar (Manakamana )"
+    },
+    {
+        "text": "Pokhariya (Sarlahi)",
+        "value": "Pokhariya (Sarlahi)"
+    },
+    {
+        "text": "Budhachok",
+        "value": "Budhachok"
+    },
+    {
+        "text": "Aagaiya",
+        "value": "Aagaiya"
+    },
+    {
+        "text": "Lalgadh",
+        "value": "Lalgadh"
+    },
+    {
+        "text": "Gogarkhola",
+        "value": "Gogarkhola"
+    },
+    {
+        "text": "Thade",
+        "value": "Thade"
+    },
+    {
+        "text": "Chabhil",
+        "value": "Chabhil"
+    },
+    {
+        "text": "Laukahi",
+        "value": "Laukahi"
+    },
+    {
+        "text": "Chandranigahpur (Chapur)",
+        "value": "Chandranigahpur (Chapur)"
+    },
+    {
+        "text": "Anaha",
+        "value": "Anaha"
+    },
+    {
+        "text": "Hanumannagar",
+        "value": "Hanumannagar"
+    },
+    {
+        "text": "Chaubaskoti",
+        "value": "Chaubaskoti"
+    },
+    {
+        "text": "Mahespur",
+        "value": "Mahespur"
+    },
+    {
+        "text": "Malpot chowk",
+        "value": "Malpot chowk"
+    },
+    {
+        "text": "Rukumkot Khalanga",
+        "value": "Rukumkot Khalanga"
+    },
+    {
+        "text": "Chowk Bazar",
+        "value": "Chowk Bazar"
+    },
+    {
+        "text": "Balara",
+        "value": "Balara"
+    },
+    {
+        "text": "Manma",
+        "value": "Manma"
+    },
+    {
+        "text": "Sakhuwa Dhamaura",
+        "value": "Sakhuwa Dhamaura"
+    },
+    {
+        "text": "Mauli",
+        "value": "Mauli"
+    },
+    {
+        "text": "Jhuleda",
+        "value": "Jhuleda"
+    },
+    {
+        "text": "Deulekh",
+        "value": "Deulekh"
+    },
+    {
+        "text": "Basane Chowk",
+        "value": "Basane Chowk"
+    },
+    {
+        "text": "Jumri",
+        "value": "Jumri"
+    },
+    {
+        "text": "Satbise",
+        "value": "Satbise"
+    },
+    {
+        "text": "Bayerghari",
+        "value": "Bayerghari"
+    },
+    {
+        "text": "Nagdanda",
+        "value": "Nagdanda"
+    },
+    {
+        "text": "Kalanki (Dhungeadda)",
+        "value": "Kalanki (Dhungeadda)"
+    },
+    {
+        "text": "Sera",
+        "value": "Sera"
+    },
+    {
+        "text": "Dhyangri",
+        "value": "Dhyangri"
+    },
+    {
+        "text": "Bestada",
+        "value": "Bestada"
+    },
+    {
+        "text": "Naudada",
+        "value": "Naudada"
+    },
+    {
+        "text": "Kanyanpur",
+        "value": "Kanyanpur"
+    },
+    {
+        "text": "Shree Chaur",
+        "value": "Shree Chaur"
+    },
+    {
+        "text": "Falekghar",
+        "value": "Falekghar"
+    },
+    {
+        "text": "Bhauda",
+        "value": "Bhauda"
+    },
+    {
+        "text": "Pairegaun",
+        "value": "Pairegaun"
+    },
+    {
+        "text": "Solti",
+        "value": "Solti"
+    },
+    {
+        "text": "Patichaur",
+        "value": "Patichaur"
+    },
+    {
+        "text": "Koluwa",
+        "value": "Koluwa"
+    },
+    {
+        "text": "Piluwa",
+        "value": "Piluwa"
+    },
+    {
+        "text": "Potiha",
+        "value": "Potiha"
+    },
+    {
+        "text": "Budhar",
+        "value": "Budhar"
+    },
+    {
+        "text": "Aaiselu Khark",
+        "value": "Aaiselu Khark"
+    },
+    {
+        "text": "Lalgadi",
+        "value": "Lalgadi"
+    },
+    {
+        "text": "Thakalichowk",
+        "value": "Thakalichowk"
+    },
+    {
+        "text": "Raadi",
+        "value": "Raadi"
+    },
+    {
+        "text": "Chainabagar",
+        "value": "Chainabagar"
+    },
+    {
+        "text": "Aarukharka",
+        "value": "Aarukharka"
+    },
+    {
+        "text": "Lauki",
+        "value": "Lauki"
+    },
+    {
+        "text": "Gujarat",
+        "value": "Gujarat"
+    },
+    {
+        "text": "Rajmarghachuraha",
+        "value": "Rajmarghachuraha"
+    },
+    {
+        "text": "Chandranigapur",
+        "value": "Chandranigapur"
+    },
+    {
+        "text": "Apraha",
+        "value": "Apraha"
+    },
+    {
+        "text": "Macche",
+        "value": "Macche"
+    },
+    {
+        "text": "Haraicha",
+        "value": "Haraicha"
+    },
+    {
+        "text": "Upallachaur",
+        "value": "Upallachaur"
+    },
+    {
+        "text": "Baddada",
+        "value": "Baddada"
+    },
+    {
+        "text": "Maidhar",
+        "value": "Maidhar "
+    },
+    {
+        "text": "Chhinti",
+        "value": "Chhinti"
+    },
+    {
+        "text": "Baherghari",
+        "value": "Baherghari"
+    },
+    {
+        "text": "Chundevi",
+        "value": "Chundevi"
+    },
+    {
+        "text": "Balaraa",
+        "value": "Balaraa"
+    },
+    {
+        "text": "Mauribagar",
+        "value": "Mauribagar"
+    },
+    {
+        "text": "Sanischare",
+        "value": "Sanischare"
+    },
+    {
+        "text": "Deura",
+        "value": "Deura"
+    },
+    {
+        "text": "Juropani",
+        "value": "Juropani"
+    },
+    {
+        "text": "Dhap",
+        "value": "Dhap"
+    },
+    {
+        "text": "Belahaiya",
+        "value": "Belahaiya"
+    },
+    {
+        "text": "Nagma",
+        "value": "Nagma"
+    },
+    {
+        "text": "Kalanki Dhungaadda",
+        "value": "Kalanki Dhungaadda"
+    },
+    {
+        "text": "Serebada",
+        "value": "Serebada"
+    },
+    {
+        "text": "Betana",
+        "value": "Betana"
+    },
+    {
+        "text": "Shreenagar",
+        "value": "Shreenagar"
+    },
+    {
+        "text": "Duipiple",
+        "value": "Duipiple"
+    },
+    {
+        "text": "Bhaluwai",
+        "value": "Bhaluwai"
+    },
+    {
+        "text": "Khalaura",
+        "value": "Khalaura"
+    },
+    {
+        "text": "Gaidakot",
+        "value": "Gaidakot"
+    },
+    {
+        "text": "Bhulke",
+        "value": "Bhulke"
+    },
+    {
+        "text": "Parsa Chowk",
+        "value": "Parsa Chowk"
+    },
+    {
+        "text": "Khodpe",
+        "value": "Khodpe"
+    },
+    {
+        "text": "Taal chwok",
+        "value": "Taal chwok"
+    },
+    {
+        "text": "Pipalpata",
+        "value": "Pipalpata"
+    },
+    {
+        "text": "Bokse Khola",
+        "value": "Bokse Khola"
+    },
+    {
+        "text": "Power House",
+        "value": "Power House"
+    },
+    {
+        "text": "Aaiselu Kharka",
+        "value": "Aaiselu Kharka"
+    },
+    {
+        "text": "Lalibazar",
+        "value": "Lalibazar"
+    },
+    {
+        "text": "Gola Bazar",
+        "value": "Gola Bazar"
+    },
+    {
+        "text": "Thakurdwar",
+        "value": "Thakurdwar"
+    },
+    {
+        "text": "Raakam",
+        "value": "Raakam"
+    },
+    {
+        "text": "Aarunkhola",
+        "value": "Aarunkhola"
+    },
+    {
+        "text": "Ramnagar (Bara)",
+        "value": "Ramnagar (Bara)"
+    },
+    {
+        "text": "Chaubuskoti",
+        "value": "Chaubuskoti"
+    },
+    {
+        "text": "Baddichaur",
+        "value": "Baddichaur"
+    },
+    {
+        "text": "Maidi",
+        "value": "Maidi"
+    },
+    {
+        "text": "Bahunbeshi",
+        "value": "Bahunbeshi"
+    },
+    {
+        "text": "Chupreni",
+        "value": "Chupreni"
+    },
+    {
+        "text": "Baldev",
+        "value": "Baldev"
+    },
+    {
+        "text": "Manwabazar",
+        "value": "Manwabazar"
+    },
+    {
+        "text": "Mayurdhap",
+        "value": "Mayurdhap"
+    },
+    {
+        "text": "Basbari",
+        "value": "Basbari"
+    },
+    {
+        "text": "Jwani",
+        "value": "Jwani"
+    },
+    {
+        "text": "Satganj",
+        "value": "Satganj"
+    },
+    {
+        "text": "Dharampokhara",
+        "value": "Dharampokhara"
+    },
+    {
+        "text": "Naikap",
+        "value": "Naikap"
+    },
+    {
+        "text": "Seri",
+        "value": "Seri"
+    },
+    {
+        "text": "Naurange",
+        "value": "Naurange "
+    },
+    {
+        "text": "Karmi dada",
+        "value": "Karmi dada"
+    },
+    {
+        "text": "Siduwa",
+        "value": "Siduwa"
+    },
+    {
+        "text": "Dulari Chowk",
+        "value": "Dulari Chowk"
+    },
+    {
+        "text": "Bhaluwang",
+        "value": "Bhaluwang"
+    },
+    {
+        "text": "Ngadi",
+        "value": "Ngadi"
+    },
+    {
+        "text": "Bhawanipur",
+        "value": "Bhawanipur"
+    },
+    {
+        "text": "Palapu",
+        "value": "Palapu"
+    },
+    {
+        "text": "Khalte/Sunaul Bazar",
+        "value": "Khalte/Sunaul Bazar"
+    },
+    {
+        "text": "Sombare",
+        "value": "Sombare"
+    },
+    {
+        "text": "Parsyang",
+        "value": "Parsyang"
+    },
+    {
+        "text": "Sundarpur",
+        "value": "Sundarpur"
+    },
+    {
+        "text": "Koshi Barrage",
+        "value": "Koshi Barrage"
+    },
+    {
+        "text": "Taamnagar",
+        "value": "Taamnagar"
+    },
+    {
+        "text": "Borangkhola",
+        "value": "Borangkhola"
+    },
+    {
+        "text": "Kusum",
+        "value": "Kusum"
+    },
+    {
+        "text": "Ghodaghodi",
+        "value": "Ghodaghodi"
+    },
+    {
+        "text": "Pracha",
+        "value": "Pracha"
+    },
+    {
+        "text": "Aaitabare",
+        "value": "Aaitabare"
+    },
+    {
+        "text": "Lalitpur",
+        "value": "Lalitpur"
+    },
+    {
+        "text": "Rachuli",
+        "value": "Rachuli"
+    },
+    {
+        "text": "Aaurahi",
+        "value": "Aaurahi"
+    },
+    {
+        "text": "Leggaun",
+        "value": "Leggaun"
+    },
+    {
+        "text": "Rake",
+        "value": "Rake"
+    },
+    {
+        "text": "Chandranighapur ( chandrapur)",
+        "value": "Chandranighapur ( chandrapur)"
+    },
+    {
+        "text": "Arnaha",
+        "value": "Arnaha"
+    },
+    {
+        "text": "Machapokhari",
+        "value": "Machapokhari"
+    },
+    {
+        "text": "Harbari",
+        "value": "Harbari"
+    },
+    {
+        "text": "Urlbari",
+        "value": "Urlbari"
+    },
+    {
+        "text": "Chaughada",
+        "value": "Chaughada"
+    },
+    {
+        "text": "Bafal (Mata Devi Petrol Pump)",
+        "value": "Bafal (Mata Devi Petrol Pump)"
+    },
+    {
+        "text": "Himalaya Petrol Pump",
+        "value": "Himalaya Petrol Pump"
+    },
+    {
+        "text": "China Bagar",
+        "value": "China Bagar"
+    },
+    {
+        "text": "Bahundangi",
+        "value": "Bahundangi"
+    },
+    {
+        "text": "Manange Chautara",
+        "value": "Manange Chautara"
+    },
+    {
+        "text": "Bahundeshi",
+        "value": "Bahundeshi"
+    },
+    {
+        "text": "Rupmi",
+        "value": "Rupmi"
+    },
+    {
+        "text": "Civil Mall (SUNDHARA)",
+        "value": "Civil Mall (SUNDHARA)"
+    },
+    {
+        "text": "Maranthana",
+        "value": "Maranthana"
+    },
+    {
+        "text": "Janakpur(Ramnand chowk)",
+        "value": "Janakpur(Ramnand chowk)"
+    },
+    {
+        "text": "Dandagaun",
+        "value": "Dandagaun"
+    },
+    {
+        "text": "Jhunkunwa",
+        "value": "Jhunkunwa"
+    },
+    {
+        "text": "Satgunj",
+        "value": "Satgunj"
+    },
+    {
+        "text": "Dharampur",
+        "value": "Dharampur"
+    },
+    {
+        "text": "Nalang",
+        "value": "Nalang"
+    },
+    {
+        "text": "Seti Khola",
+        "value": "Seti Khola"
+    },
+    {
+        "text": "Nawalprasi",
+        "value": "Nawalprasi"
+    },
+    {
+        "text": "Kechana",
+        "value": "Kechana"
+    },
+    {
+        "text": "Sonbarsa",
+        "value": "Sonbarsa"
+    },
+    {
+        "text": "Gaira",
+        "value": "Gaira"
+    },
+    {
+        "text": "Khorsani",
+        "value": "Khorsani"
+    },
+    {
+        "text": "Patnali",
+        "value": "Patnali"
+    },
+    {
+        "text": "Kuthli",
+        "value": "Kuthli"
+    },
+    {
+        "text": "Ghokhani",
+        "value": "Ghokhani"
+    },
+    {
+        "text": "Buttabari",
+        "value": "Buttabari"
+    },
+    {
+        "text": "Aambas",
+        "value": "Aambas"
+    },
+    {
+        "text": "Lama Tole",
+        "value": "Lama Tole"
+    },
+    {
+        "text": "Thami chagu",
+        "value": "Thami chagu"
+    },
+    {
+        "text": "Chainpur Chowk",
+        "value": "Chainpur Chowk"
+    },
+    {
+        "text": "Ram Rekha",
+        "value": "Ram Rekha"
+    },
+    {
+        "text": "Hari Chowk",
+        "value": "Hari Chowk"
+    },
+    {
+        "text": "Vartola",
+        "value": "Vartola"
+    },
+    {
+        "text": "Chaumala",
+        "value": "Chaumala"
+    },
+    {
+        "text": "Himali",
+        "value": "Himali"
+    },
+    {
+        "text": "Rautahat",
+        "value": "Rautahat"
+    },
+    {
+        "text": "Chinchu",
+        "value": "Chinchu"
+    },
+    {
+        "text": "Manbu",
+        "value": "Manbu"
+    },
+    {
+        "text": "Jagate",
+        "value": "Jagate"
+    },
+    {
+        "text": "Rupni",
+        "value": "Rupni"
+    },
+    {
+        "text": "CMC Chowk",
+        "value": "CMC Chowk"
+    },
+    {
+        "text": "Marchawar",
+        "value": "Marchawar "
+    },
+    {
+        "text": "Jhurjhure",
+        "value": "Jhurjhure"
+    },
+    {
+        "text": "Sankhu",
+        "value": "Sankhu"
+    },
+    {
+        "text": "Dhade",
+        "value": "Dhade"
+    },
+    {
+        "text": "Basene chowk",
+        "value": "Basene chowk "
+    },
+    {
+        "text": "Kadebas",
+        "value": "Kadebas"
+    },
+    {
+        "text": "Kalikot Jitegadaa",
+        "value": "Kalikot Jitegadaa"
+    },
+    {
+        "text": "Katar Chowk",
+        "value": "Katar Chowk"
+    },
+    {
+        "text": "Dumahi",
+        "value": "Dumahi"
+    },
+    {
+        "text": "Ngh Katari",
+        "value": "Ngh Katari"
+    },
+    {
+        "text": "Sindhureghari",
+        "value": "Sindhureghari"
+    },
+    {
+        "text": "Fedi Khola",
+        "value": "Fedi Khola"
+    },
+    {
+        "text": "Khaniya",
+        "value": "Khaniya"
+    },
+    {
+        "text": "Gajuri",
+        "value": "Gajuri"
+    },
+    {
+        "text": "Birjung",
+        "value": "Birjung"
+    },
+    {
+        "text": "Kothihawa",
+        "value": "Kothihawa"
+    },
+    {
+        "text": "Pippara",
+        "value": "Pippara"
+    },
+    {
+        "text": "Kyampa (jhapa)",
+        "value": "Kyampa (jhapa)"
+    },
+    {
+        "text": "Ghorabane",
+        "value": "Ghorabane"
+    },
+    {
+        "text": "Tapra",
+        "value": "Tapra"
+    },
+    {
+        "text": "Prem Basti Chowk",
+        "value": "Prem Basti Chowk"
+    },
+    {
+        "text": "Aamiliya",
+        "value": "Aamiliya"
+    },
+    {
+        "text": "Gondrang",
+        "value": "Gondrang"
+    },
+    {
+        "text": "Than",
+        "value": "Than"
+    },
+    {
+        "text": "Chainpur/Dhading",
+        "value": "Chainpur/Dhading"
+    },
+    {
+        "text": "Tiwari Bhanjyang",
+        "value": "Tiwari Bhanjyang"
+    },
+    {
+        "text": "Ramadi",
+        "value": "Ramadi"
+    },
+    {
+        "text": "Atariya",
+        "value": "Atariya"
+    },
+    {
+        "text": "Madhopur",
+        "value": "Madhopur"
+    },
+    {
+        "text": "Vaunne",
+        "value": "Vaunne"
+    },
+    {
+        "text": "Hospita Chowk",
+        "value": "Hospita Chowk"
+    },
+    {
+        "text": "Chitraban",
+        "value": "Chitraban"
+    },
+    {
+        "text": "Manewa",
+        "value": "Manewa"
+    },
+    {
+        "text": "Saaikhola",
+        "value": "Saaikhola"
+    },
+    {
+        "text": "Coke Factory",
+        "value": "Coke Factory"
+    },
+    {
+        "text": "Baluwataar",
+        "value": "Baluwataar"
+    },
+    {
+        "text": "Sallibazar",
+        "value": "Sallibazar"
+    },
+    {
+        "text": "Dangihat",
+        "value": "Dangihat"
+    },
+    {
+        "text": "Melkhet",
+        "value": "Melkhet"
+    },
+    {
+        "text": "Jhyalbas",
+        "value": "Jhyalbas"
+    },
+    {
+        "text": "Mukundapur",
+        "value": "Mukundapur"
+    },
+    {
+        "text": "Kadmaha",
+        "value": "Kadmaha"
+    },
+    {
+        "text": "Sathbhaaj",
+        "value": "Sathbhaaj"
+    },
+    {
+        "text": "Dharan Buspark",
+        "value": "Dharan Buspark"
+    },
+    {
+        "text": "Bhagwanpur",
+        "value": "Bhagwanpur"
+    },
+    {
+        "text": "Naya Road",
+        "value": "Naya Road"
+    },
+    {
+        "text": "Sikatar",
+        "value": "Sikatar"
+    },
+    {
+        "text": "Bhansar",
+        "value": "Bhansar"
+    },
+    {
+        "text": "Ngh-Bankul",
+        "value": "Ngh-Bankul"
+    },
+    {
+        "text": "Palpa, Rampur",
+        "value": "Palpa, Rampur"
+    },
+    {
+        "text": "Khap Ghiura",
+        "value": "Khap Ghiura"
+    },
+    {
+        "text": "Galayang",
+        "value": "Galayang"
+    },
+    {
+        "text": "Bhuwalichowk",
+        "value": "Bhuwalichowk"
+    },
+    {
+        "text": "Pasthi",
+        "value": "Pasthi"
+    },
+    {
+        "text": "Khoullar",
+        "value": "Khoullar"
+    },
+    {
+        "text": "Surat",
+        "value": "Surat"
+    },
+    {
+        "text": "Pipra",
+        "value": "Pipra"
+    },
+    {
+        "text": "Kyampa bazar",
+        "value": "Kyampa bazar"
+    },
+    {
+        "text": "Aamthang",
+        "value": "Aamthang"
+    },
+    {
+        "text": "Gongabu",
+        "value": "Gongabu"
+    },
+    {
+        "text": "Tharmare",
+        "value": "Tharmare"
+    },
+    {
+        "text": "Raguwa",
+        "value": "Raguwa"
+    },
+    {
+        "text": "Ahmedabad",
+        "value": "Ahmedabad"
+    },
+    {
+        "text": "Gulmi Tamghas",
+        "value": "Gulmi Tamghas"
+    },
+    {
+        "text": "Totalabari",
+        "value": "Totalabari"
+    },
+    {
+        "text": "Madhuban",
+        "value": "Madhuban"
+    },
+    {
+        "text": "Chaurjahari",
+        "value": "Chaurjahari"
+    },
+    {
+        "text": "Bagdulla",
+        "value": "Bagdulla"
+    },
+    {
+        "text": "Majhigau",
+        "value": "Majhigau"
+    },
+    {
+        "text": "Hukam",
+        "value": "Hukam"
+    },
+    {
+        "text": "Rice Mill",
+        "value": "Rice Mill"
+    },
+    {
+        "text": "Baisari",
+        "value": "Baisari"
+    },
+    {
+        "text": "Dadagau",
+        "value": "Dadagau"
+    },
+    {
+        "text": "Bamka",
+        "value": "Bamka"
+    },
+    {
+        "text": "Markhu",
+        "value": "Markhu"
+    },
+    {
+        "text": "Bargachhi (Bajaj Showroom)",
+        "value": "Bargachhi (Bajaj Showroom)"
+    },
+    {
+        "text": "Mendogaun",
+        "value": "Mendogaun"
+    },
+    {
+        "text": "Sarangpada",
+        "value": "Sarangpada"
+    },
+    {
+        "text": "Dhaijan",
+        "value": "Dhaijan"
+    },
+    {
+        "text": "Mungling",
+        "value": "Mungling"
+    },
+    {
+        "text": "Kafalthuta",
+        "value": "Kafalthuta"
+    },
+    {
+        "text": "Satrasaye",
+        "value": "Satrasaye"
+    },
+    {
+        "text": "Beldiya",
+        "value": "Beldiya"
+    },
+    {
+        "text": "Narayangarh",
+        "value": "Narayangarh"
+    },
+    {
+        "text": "Shankhuwasabha",
+        "value": "Shankhuwasabha"
+    },
+    {
+        "text": "Dogadi",
+        "value": "Dogadi"
+    },
+    {
+        "text": "Bhagwanpur (Chanahi)",
+        "value": "Bhagwanpur (Chanahi)"
+    },
+    {
+        "text": "Nayabasti",
+        "value": "Nayabasti "
+    },
+    {
+        "text": "Sikitar",
+        "value": "Sikitar"
+    },
+    {
+        "text": "Bhantabari",
+        "value": "Bhantabari"
+    },
+    {
+        "text": "Khadi Chaur",
+        "value": "Khadi Chaur"
+    },
+    {
+        "text": "Khara",
+        "value": "Khara"
+    },
+    {
+        "text": "Bichaur",
+        "value": "Bichaur"
+    },
+    {
+        "text": "Pasti",
+        "value": "Pasti"
+    },
+    {
+        "text": "Khurhuriya Chowk",
+        "value": "Khurhuriya Chowk"
+    },
+    {
+        "text": "Gausala",
+        "value": "Gausala"
+    },
+    {
+        "text": "Patthardada",
+        "value": "Patthardada"
+    },
+    {
+        "text": "Bisanpur",
+        "value": "Bisanpur"
+    },
+    {
+        "text": "Pipra (Gaur)",
+        "value": "Pipra (Gaur)"
+    },
+    {
+        "text": "Laalbhitti",
+        "value": "Laalbhitti"
+    },
+    {
+        "text": "Ghumtibazar",
+        "value": "Ghumtibazar"
+    },
+    {
+        "text": "Tarapatti",
+        "value": "Tarapatti"
+    },
+    {
+        "text": "Aanaha",
+        "value": "Aanaha"
+    },
+    {
+        "text": "Tharpu",
+        "value": "Tharpu"
+    },
+    {
+        "text": "Raigau",
+        "value": "Raigau"
+    },
+    {
+        "text": "Amaltari",
+        "value": "Amaltari"
+    },
+    {
+        "text": "Lete Dada",
+        "value": "Lete Dada"
+    },
+    {
+        "text": "Gurukhola",
+        "value": "Gurukhola"
+    },
+    {
+        "text": "Ramailo (Rangeli)",
+        "value": "Ramailo (Rangeli)"
+    },
+    {
+        "text": "Attraiya",
+        "value": "Attraiya"
+    },
+    {
+        "text": "Rampur Beltar",
+        "value": "Rampur Beltar"
+    },
+    {
+        "text": "Baghthala",
+        "value": "Baghthala"
+    },
+    {
+        "text": "Malahitol",
+        "value": "Malahitol"
+    },
+    {
+        "text": "Hyderabad",
+        "value": "Hyderabad"
+    },
+    {
+        "text": "Rihar",
+        "value": "Rihar"
+    },
+    {
+        "text": "Baisari Begh Khola",
+        "value": "Baisari Begh Khola"
+    },
+    {
+        "text": "Mangalbare",
+        "value": "Mangalbare"
+    },
+    {
+        "text": "Jaitapur",
+        "value": "Jaitapur"
+    },
+    {
+        "text": "Saalme",
+        "value": "Saalme"
+    },
+    {
+        "text": "Banchare",
+        "value": "Banchare"
+    },
+    {
+        "text": "Marpak",
+        "value": "Marpak"
+    },
+    {
+        "text": "Jhaarbaira",
+        "value": "Jhaarbaira"
+    },
+    {
+        "text": "Barghat",
+        "value": "Barghat"
+    },
+    {
+        "text": "Michaiya",
+        "value": "Michaiya"
+    },
+    {
+        "text": "Jite",
+        "value": "Jite"
+    },
+    {
+        "text": "Sardi",
+        "value": "Sardi"
+    },
+    {
+        "text": "Dhalke bar",
+        "value": "Dhalke bar"
+    },
+    {
+        "text": "Bashain",
+        "value": "Bashain"
+    },
+    {
+        "text": "Murchowk",
+        "value": "Murchowk"
+    },
+    {
+        "text": "Saule",
+        "value": "Saule"
+    },
+    {
+        "text": "Dharapani (Dhanusha)",
+        "value": "Dharapani (Dhanusha)"
+    },
+    {
+        "text": "Belhi",
+        "value": "Belhi"
+    },
+    {
+        "text": "Shantibazar",
+        "value": "Shantibazar"
+    },
+    {
+        "text": "Nayaganu",
+        "value": "Nayaganu"
+    },
+    {
+        "text": "Kathar",
+        "value": "Kathar"
+    },
+    {
+        "text": "Dumkibash",
+        "value": "Dumkibash"
+    },
+    {
+        "text": "Bhanu chowk",
+        "value": "Bhanu chowk"
+    },
+    {
+        "text": "Nipani",
+        "value": "Nipani"
+    },
+    {
+        "text": "Bhingri",
+        "value": "Bhingri"
+    },
+    {
+        "text": "Panchami",
+        "value": "Panchami"
+    },
+    {
+        "text": "Subeda",
+        "value": "Subeda"
+    },
+    {
+        "text": "Galchi",
+        "value": "Galchi"
+    },
+    {
+        "text": "Bishanpur",
+        "value": "Bishanpur"
+    },
+    {
+        "text": "Kotihwa",
+        "value": "Kotihwa"
+    },
+    {
+        "text": "Tamail",
+        "value": "Tamail"
+    },
+    {
+        "text": "Buddha chwok",
+        "value": "Buddha chwok"
+    },
+    {
+        "text": "Ladubulung",
+        "value": "Ladubulung"
+    },
+    {
+        "text": "Ghurmi",
+        "value": "Ghurmi"
+    },
+    {
+        "text": "Prithivi Chwok",
+        "value": "Prithivi Chwok"
+    },
+    {
+        "text": "Aappipal",
+        "value": "Aappipal"
+    },
+    {
+        "text": "Thatipokhari",
+        "value": "Thatipokhari"
+    },
+    {
+        "text": "Chakraghatta",
+        "value": "Chakraghatta"
+    },
+    {
+        "text": "Lete Kalopani",
+        "value": "Lete Kalopani"
+    },
+    {
+        "text": "Gwalichaur",
+        "value": "Gwalichaur"
+    },
+    {
+        "text": "Attrariya",
+        "value": "Attrariya"
+    },
+    {
+        "text": "Madi",
+        "value": "Madi"
+    },
+    {
+        "text": "Woralibazar",
+        "value": "Woralibazar"
+    },
+    {
+        "text": "Rampur(Pracha)",
+        "value": "Rampur(Pracha)"
+    },
+    {
+        "text": "Chauthe",
+        "value": "Chauthe"
+    },
+    {
+        "text": "Baitadi",
+        "value": "Baitadi"
+    },
+    {
+        "text": "mangalbari",
+        "value": "mangalbari"
+    },
+    {
+        "text": "Saatbise",
+        "value": "Saatbise"
+    },
+    {
+        "text": "Daiji",
+        "value": "Daiji"
+    },
+    {
+        "text": "Jhakristhan",
+        "value": "Jhakristhan"
+    },
+    {
+        "text": "Samakhushi",
+        "value": "Samakhushi"
+    },
+    {
+        "text": "Milan Chowk",
+        "value": "Milan Chowk"
+    },
+    {
+        "text": "Bashgadi",
+        "value": "Bashgadi"
+    },
+    {
+        "text": "Kagune",
+        "value": "Kagune"
+    },
+    {
+        "text": "Dhikure",
+        "value": "Dhikure"
+    },
+    {
+        "text": "Narayanghad",
+        "value": "Narayanghad"
+    },
+    {
+        "text": "Kathariya",
+        "value": "Kathariya"
+    },
+    {
+        "text": "Bharang Bhurung",
+        "value": "Bharang Bhurung "
+    },
+    {
+        "text": "Nishi",
+        "value": "Nishi"
+    },
+    {
+        "text": "Khairahani",
+        "value": "Khairahani"
+    },
+    {
+        "text": "Sisaghat",
+        "value": "Sisaghat"
+    },
+    {
+        "text": "Fulchaur",
+        "value": "Fulchaur"
+    },
+    {
+        "text": "Panchase",
+        "value": "Panchase"
+    },
+    {
+        "text": "Sukdev Chowk",
+        "value": "Sukdev Chowk"
+    },
+    {
+        "text": "Galeshwor",
+        "value": "Galeshwor"
+    },
+    {
+        "text": "Bijaypur",
+        "value": "Bijaypur"
+    },
+    {
+        "text": "Pathalagada",
+        "value": "Pathalagada"
+    },
+    {
+        "text": "Khursane",
+        "value": "Khursane"
+    },
+    {
+        "text": "Pattrdada",
+        "value": "Pattrdada"
+    },
+    {
+        "text": "Bishnupur",
+        "value": "Bishnupur"
+    },
+    {
+        "text": "Kotiwaha",
+        "value": "Kotiwaha"
+    },
+    {
+        "text": "Tamakoshi",
+        "value": "Tamakoshi"
+    },
+    {
+        "text": "Buddhachowck",
+        "value": "Buddhachowck"
+    },
+    {
+        "text": "Lagma",
+        "value": "Lagma"
+    },
+    {
+        "text": "Girauna",
+        "value": "Girauna"
+    },
+    {
+        "text": "PU Chowk",
+        "value": "PU Chowk"
+    },
+    {
+        "text": "Aappipal Harmi",
+        "value": "Aappipal Harmi"
+    },
+    {
+        "text": "Liwang",
+        "value": "Liwang"
+    },
+    {
+        "text": "Chapur (Chandranighapur)",
+        "value": "Chapur (Chandranighapur)"
+    },
+    {
+        "text": "Aurahi",
+        "value": "Aurahi"
+    },
+    {
+        "text": "Mahadevghat",
+        "value": "Mahadevghat"
+    },
+    {
+        "text": "WRC",
+        "value": "WRC"
+    },
+    {
+        "text": "Chauthe Chowk",
+        "value": "Chauthe Chowk"
+    },
+    {
+        "text": "Baglung Bus Park",
+        "value": "Baglung Bus Park"
+    },
+    {
+        "text": "Rijalchowk",
+        "value": "Rijalchowk"
+    },
+    {
+        "text": "Mangalghat",
+        "value": "Mangalghat"
+    },
+    {
+        "text": "Jalandhar",
+        "value": "Jalandhar"
+    },
+    {
+        "text": "Sabhagriha Chowk",
+        "value": "Sabhagriha Chowk"
+    },
+    {
+        "text": "Dailekh",
+        "value": "Dailekh"
+    },
+    {
+        "text": "Jhalari",
+        "value": "Jhalari"
+    },
+    {
+        "text": "Samanpur",
+        "value": "Samanpur"
+    },
+    {
+        "text": "Dattu",
+        "value": "Dattu"
+    },
+    {
+        "text": "Barhain",
+        "value": "Barhain"
+    },
+    {
+        "text": "Jiula",
+        "value": "Jiula"
+    },
+    {
+        "text": "Dhalkeshwor",
+        "value": "Dhalkeshwor"
+    },
+    {
+        "text": "Musyachar",
+        "value": "Musyachar"
+    },
+    {
+        "text": "Kahare",
+        "value": "Kahare"
+    },
+    {
+        "text": "Dhorpatan",
+        "value": "Dhorpatan"
+    },
+    {
+        "text": "Beluwa",
+        "value": "Beluwa"
+    },
+    {
+        "text": "Narayanghar",
+        "value": "Narayanghar"
+    },
+    {
+        "text": "Kanabagar",
+        "value": "Kanabagar"
+    },
+    {
+        "text": "Sharabe",
+        "value": "Sharabe"
+    },
+    {
+        "text": "Bhaise",
+        "value": "Bhaise"
+    },
+    {
+        "text": "Dunipadhera",
+        "value": "Dunipadhera"
+    },
+    {
+        "text": "Khairapur",
+        "value": "Khairapur"
+    },
+    {
+        "text": "Sitabazar",
+        "value": "Sitabazar"
+    },
+    {
+        "text": "Fuljhor",
+        "value": "Fuljhor"
+    },
+    {
+        "text": "Galji",
+        "value": "Galji"
+    },
+    {
+        "text": "Pathalgada",
+        "value": "Pathalgada"
+    },
+    {
+        "text": "Khururaya",
+        "value": "Khururaya"
+    },
+    {
+        "text": "Bisrampur",
+        "value": "Bisrampur"
+    },
+    {
+        "text": "Kotiyaghat",
+        "value": "Kotiyaghat "
+    },
+    {
+        "text": "Tamaspur",
+        "value": "Tamaspur"
+    },
+    {
+        "text": "Gitanagar",
+        "value": "Gitanagar"
+    },
+    {
+        "text": "Pulchowk",
+        "value": "Pulchowk"
+    },
+    {
+        "text": "Gorkhali Tole",
+        "value": "Gorkhali Tole"
+    },
+    {
+        "text": "Ambash",
+        "value": "Ambash"
+    },
+    {
+        "text": "Hadikhola",
+        "value": "Hadikhola"
+    },
+    {
+        "text": "Yarsha",
+        "value": "Yarsha"
+    },
+    {
+        "text": "Chedched",
+        "value": "Chedched"
+    }
+]
